@@ -3,3 +3,6 @@
 
 # Ignore MacOS directory metadata file
 .DS_Store
+
+# Ignore env files with env variables
+.env
