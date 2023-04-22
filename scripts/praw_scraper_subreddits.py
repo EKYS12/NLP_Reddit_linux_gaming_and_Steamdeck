@@ -80,8 +80,8 @@ def pull_subreddit(subreddit_name):
     subred_comment_df['subreddit'] = subreddit_name
 
     # Exporting the dataframe as a csv. Labeling with the subreddit name and the date of collection
-    subred_title_df.to_csv(f'../data/{subreddit_name}_title_data_{current_date}.csv', index=False)
-    subred_comment_df.to_csv(f'../data/{subreddit_name}_comment_data_{current_date}.csv', index=False)
+    subred_title_df.to_csv(f'../data/raw_data/{subreddit_name}_title_data_{current_date}.csv', index=False)
+    subred_comment_df.to_csv(f'../data/raw_data/{subreddit_name}_comment_data_{current_date}.csv', index=False)
 
     return
 
