@@ -1,49 +1,91 @@
 title_id,title,subreddit
+12v1ei7,"Flathub Has Been Redesigned, and Each App Page Contains Much More Info Now",linux_gaming
+12uvrtn,One Step Closer to Wayland Wine,linux_gaming
+12uz4oy,"Steam Deck Will be Sold in Physical Stores in Japan Next Week, and We Will Cover the Launch Event",linux_gaming
+12vaahc,Making my Punch-Out and Cuphead inspired game available on Linux and Steam Deck!,linux_gaming
+12vnzu2,is there a list of all the dxvk and proton launch commands for steam?,linux_gaming
 12udewo,"Valve Lands Another Radeon Vulkan Performance Optimization For An ""Upcoming Game""",linux_gaming
+12vm0t6,ps3 guitar hero controller not being detected,linux_gaming
+12vm02w,Cyberpunk 2077 audio while attacking problem,linux_gaming
+12voyrz,Immutable or no?,linux_gaming
+12vnoi2,"Celebrate the third anniversary of Project Heartbeat, the enthusiast community rhythm game made on Linux, with update 0.17 a MASSIVE release with many features and improvements, including an editor revamp, 2 new songs & more! Together with a 40% discount!",linux_gaming
+12v0wjy,Dota 2: The New Frontiers Update is out and it's huge,linux_gaming
+12uvjsw,Steam Deck compiles Vulkan shaders faster than my desktop and I'm not entirely sure why,linux_gaming
+12ujb6v,Roblox's new anticheat (Byfron) being slowly rolled out causing wine incompatibility,linux_gaming
+12vjz6o,Lutris: Exit with return code 256,linux_gaming
+12voxwo,Tumbleweed Steam live video not playing in OpenSUSE,linux_gaming
+12vgdz7,"Cannot launch Battlefield IV, V or 1 on Steam",linux_gaming
+12uzgbx,Curious to know what mechanical keyboard brand+model+switch you guys are using. I have a 3-year-old Corsair K70 RGB Mk.II (CMX Brown) keyboard that I just replaced with my backup CM Storm CK350 (Outemu Blue) because some of the LEDs on the K70 are wonky now.,linux_gaming
+12vghsy,Civilization VI doesn't start with Proton,linux_gaming
+12vdywp,Does anybody know what the hell /proc/<pid>/pagemap_reset is?,linux_gaming
+12vcf67,Main game loosing (mouse) focus,linux_gaming
+12vbdd8,Ludusavi on gnome 44 Error:Unable To Browse Your System.,linux_gaming
+12va099,One game not running on GPU and has no display ( it has sound but its window is inactive),linux_gaming
+12v9sqp,Has anyone been able to overclock their laptop with gnome?,linux_gaming
+12v81pg,Hunt Showdown gamma slider not working,linux_gaming
+12urnzk,120hz monitor + 60hz game = stuttering?,linux_gaming
+12v63gz,Gaming PC help with games,linux_gaming
+12v52jv,Factorio crashing when steam invite received on Wayland,linux_gaming
 12tn22y,The first trailer for my detective mystery game. The engine I’m using supports Linux. ,linux_gaming
+12v3wmc,Installing Sims 2 by Universal DVD exits with error 256,linux_gaming
 12u17qp,I just released my first game with Day 1 Linux Support! Dungeons & Jewels.,linux_gaming
-12tx0fl,Proton Experimental for Steam Deck & Linux upgraded with Proton 8,linux_gaming
-12u0mhu,HDMI 2.1 with VRR and HDR Support,linux_gaming
-12u7269,"Problem with CSGO on Linux, stuck at 144 fps and Brightness doesn't work is stuck at 80%",linux_gaming
-12t7gwj,Ubisoft is looking for game developers with Linux experience,linux_gaming
+12v1356,Running black ops 2 with plutonium on bottles,linux_gaming
+12v7v5w,Turns Out a Prototype Design for a New Steam Interface Made Back in 2014 Ended Up Pretty Close To the Current Big Picture Mode,linux_gaming
+12ur51m,How stable is the Oibaf PPA on Ubuntu?,linux_gaming
 12uablo,Heroic has sort of replaced Lutris for me.,linux_gaming
-12t5ws9,RADV Optimized By Valve For An Upcoming Game - Nearly Matching The Windows Performance,linux_gaming
-12tqkgl,Stellaris 3.8 will add two co-op modes now in Beta,linux_gaming
-12uchtv,GTA V/Online no longer playable... help?,linux_gaming
+12uyjly,Elden Ring crashes computer,linux_gaming
+12uycfx,"Steamdeck, trying to install directsound in gothic 2, can't get rid of this error.",linux_gaming
+12tx0fl,Proton Experimental for Steam Deck & Linux upgraded with Proton 8,linux_gaming
+12usf4u,What's a good playnite alternative for organizing my collection?,linux_gaming
+12u7269,"Problem with CSGO on Linux, stuck at 144 fps and Brightness doesn't work is stuck at 80%",linux_gaming
 12ub5km,Dev snapshot: Godot 4.1 dev 1,linux_gaming
+12ugpvu,Dead Island 2 Working,linux_gaming
+12uwgmu,Joycons not working in 22.04,linux_gaming
+12u0mhu,HDMI 2.1 with VRR and HDR Support,linux_gaming
+12uq2yk,ultra battery saving mode?,linux_gaming
+12uuplw,advice wanted,linux_gaming
+12t7gwj,Ubisoft is looking for game developers with Linux experience,linux_gaming
+12uadjc,Proton 8: Wine Rebase and Updated Steam Runtime on Debian 11,linux_gaming
+12uj99b,Osu stutters a lot and sometimes freezes,linux_gaming
+12uv6qn,Anyway to improve FPS on Resident Evil remakes/7.,linux_gaming
+12t5ws9,RADV Optimized By Valve For An Upcoming Game - Nearly Matching The Windows Performance,linux_gaming
+12uoxf4,Insurgency: Sandstorm 1.14 Hotfix,linux_gaming
+12tqkgl,Stellaris 3.8 will add two co-op modes now in Beta,linux_gaming
+12umdmn,Monster Hunter Rise Steam Ubuntu installation,linux_gaming
 12taoax,PSA: the official itch.io client bundles a very outdated version of electron and has security risks,linux_gaming
-12ufis0,Problems with Proton,linux_gaming
-12uelsi,Bios,linux_gaming
 12u6faa,Common stuttering after prolonged usage on Nobara 37,linux_gaming
 12u0e7r,Why is there not a graphics-drivers serivice that can be retsarted instantly?,linux_gaming
 12ttmzu,"""Hypercharge: Unboxed"" added a slick story campaign",linux_gaming
-12uadjc,Proton 8: Wine Rebase and Updated Steam Runtime on Debian 11,linux_gaming
-12u9uvn,msi overlay on linux,linux_gaming
+12urvrn,Have a Nice Death on Manjaro,linux_gaming
+12uchtv,GTA V/Online no longer playable... help?,linux_gaming
 12u9s1i,Can I still use my gpu after pass-through?,linux_gaming
 12u9dxx,obs-vkcapture outside of Steam?,linux_gaming
 12u9a69,CnCNet client on Linux,linux_gaming
+12ufis0,Problems with Proton,linux_gaming
 12tdvyb,Ubuntu 23.04 Laptop Performance Mixed Against Ubuntu 22.10,linux_gaming
+12u9uvn,msi overlay on linux,linux_gaming
 12syllz,I never expected for this to happen: I am running out of space for my linux gaming library...,linux_gaming
+12uelsi,Bios,linux_gaming
 12sy66l,Proton Hotfix gets Minecraft Legends working on Steam Deck & Linux desktop,linux_gaming
 12twjqu,Thrustmaster TCA Yoke Boeing,linux_gaming
 12seueq,Minecraft Legends running in Proton (on a Steam Deck no less) ,linux_gaming
 12tvjb7,Dark Souls 2 SOTFS Steam - Controller not working at all,linux_gaming
-12tv1aw,Nintendo Switch Pro Controller motion controls with yuzu,linux_gaming
-12t5nc8,lutris v0.5.13-beta2 is out,linux_gaming
 12tfvrz,Is VR on linux worth it?,linux_gaming
-12t5q3z,"Some older Ubisoft titles might be broken on steam, because the old uplay launcher doesn't work or update anymore.",linux_gaming
-12szr10,AMD uses AI (Reinforcement Learning) to optimize their graphics drivers,linux_gaming
+12tv1aw,Nintendo Switch Pro Controller motion controls with yuzu,linux_gaming
 12tjvu1,How does Wayland treat in-game vsync?,linux_gaming
+12t5q3z,"Some older Ubisoft titles might be broken on steam, because the old uplay launcher doesn't work or update anymore.",linux_gaming
+12t5nc8,lutris v0.5.13-beta2 is out,linux_gaming
+12szr10,AMD uses AI (Reinforcement Learning) to optimize their graphics drivers,linux_gaming
 12tqm1d,Question about Nvidia options,linux_gaming
 12tjl4j,Dark Souls Remastered broken on Ubuntu 23.04,linux_gaming
 12smu7z,"Unrecord, Upcoming Game, Looks Amazingly Realistic with Body-Cam Viewpoint",linux_gaming
 12rzqh3,Postal 2 got 20ᵗʰ anniversary update with native Steam Deck support,linux_gaming
 12tb4t3,Setup bepinex launch commands?,linux_gaming
 12tqjx4,Heroic Won't launch games..,linux_gaming
-12u4b4k,Best website for free linux/windows games,linux_gaming
 12swe5o,AMD cards on Linux Mint,linux_gaming
 12t6jsh,New luxtorpeda-dev Client Release (Version 63),linux_gaming
 12tj879,USB SSD Issues (w/ Proton?),linux_gaming
+12u4b4k,Best website for free linux/windows games,linux_gaming
 12tglu0,Question about old GPUs R9 380X vs GTX 980ti/TitanX for CRT in Linux,linux_gaming
 12tg4yu,Launching Cemu with GameScope,linux_gaming
 12syut4,Running on 50 % less performance,linux_gaming
@@ -70,8 +112,8 @@ title_id,title,subreddit
 12rtydj,Meet RegataOS: An openSUSE Tumbleweed-based gaming focused distro.,linux_gaming
 12samnh,"[Review]Ultimate Bluetooth Controller by 8bitdo. Great Controller, avoid it(for now)",linux_gaming
 12rvr24,Europa Universalis IV: Domination and free update out now,linux_gaming
-12t44om,Guys i think we need to get 70% of steam games a linux port 🤣,linux_gaming
 12s852v,Can't remote play on my Ubuntu laptop (other devices work just fine),linux_gaming
+12t44om,Guys i think we need to get 70% of steam games a linux port 🤣,linux_gaming
 12qlo3y,Manjaro Is Losing Ground Very Fast as A Linux Gaming Distro,linux_gaming
 12sn6yb,Move Games,linux_gaming
 12sb8hk,Gaming on Linux EP#86: Second Extinction | Epic Games | Heroic Launcher | 3700X 6600XT,linux_gaming
@@ -88,7 +130,6 @@ title_id,title,subreddit
 12rp8fc,Dell Inspiron 7420 (2022),linux_gaming
 12ruv8z,Steam Proton: weird audio issue with USB audio interface (Focusrite Clarett+ 4Pre),linux_gaming
 12qt7uz,MangoHud Version 0.6.9-1 Hotfix release,linux_gaming
-12rypoz,Hello Linux Gang I’ve got a few questions,linux_gaming
 12rn271,Path of Titans / Alderon Launcher not doing anything,linux_gaming
 12rsiq5,Help with linux gaming.,linux_gaming
 12rxxba,Amazon Alexa with Linux Gaming?,linux_gaming
@@ -104,12 +145,12 @@ title_id,title,subreddit
 12qx0l9,Gaming On Linux blog: Lueur blends city-building with survival from a former Ubisoft developer,linux_gaming
 12qnw5k,Zoria: Age of Shattering now skipping Early Access to release in September,linux_gaming
 12rk93w,PDS and BMQ Schedulers not working ????,linux_gaming
+12qnves,Survival game Vintage Story set for a huge update with a big story event,linux_gaming
 12pkh5k,"A friend of mine just posted this on his Discord server: It's GTA: San Andreas via DXVK 2.1 running on NVK, at almost 60FPS. (He got it from the Linux Gaming Dev server.)",linux_gaming
 12r44yc,Ultimate Alliance 2006,linux_gaming
 12qa9ia,Dark Souls 3 borked with Proton 8,linux_gaming
 12q7ql2,DeckyLoader v2.7.0 is Out,linux_gaming
 12r8zij,GTA V won't go fullscreen,linux_gaming
-12qnves,Survival game Vintage Story set for a huge update with a big story event,linux_gaming
 12rf0ko,EasyAntiCheat errors after latest Dead by Daylight update,linux_gaming
 12rgpe1,Game Documents,linux_gaming
 12qysxn,Is the Metro Exodus Linux client on the Epic Games / Heroic Launcher?,linux_gaming
@@ -133,9 +174,9 @@ title_id,title,subreddit
 12qpgv3,"Install Proton 8.0 manually. But, it didn't show up on Steam",linux_gaming
 12pags7,Don't always trust protonDB. The IRONSIGHT game case.,linux_gaming
 12q3mdy,Age of Empire II Definitive Edition crashes on Linux Mint when I am on kernel version 5.19 but launches without any issues on kernel version 5.15.,linux_gaming
+12qhugs,Ubisoft launcher not working. Again.,linux_gaming
 12qbjdz,"How to enable ""virtual desktop"" for specific app? (per-file setting doesn't work as expected)",linux_gaming
 12pwza4,Improving Performance on Chromebook,linux_gaming
-12qhugs,Ubisoft launcher not working. Again.,linux_gaming
 12pxtx2,Minecraft Bedrock Edition Launcher won't Launch,linux_gaming
 12qfhmv,Cyberpunk Mods not working ?,linux_gaming
 12pnn1k,Darkest Dungeon got a free total conversion with Black Reliquary,linux_gaming
@@ -158,7 +199,6 @@ title_id,title,subreddit
 12q3z1g,Wtf Apex?,linux_gaming
 12pi6kl,CS:GO all gloves are black.,linux_gaming
 12ozwu6,Help with AMD eGPU,linux_gaming
-12pumo8,Nvidia is full of it,linux_gaming
 12puf9f,This needs to stop,linux_gaming
 12p1vwv,Guide: How to play Dark and Darker Playtest#5 on Linux using Lutris,linux_gaming
 12oub7i,CSGO controller binds keep resetting after every kill,linux_gaming
@@ -284,6 +324,7 @@ title_id,title,subreddit
 12kxzzp,The latest Steam Survey had a huge surge of Simplified Chinese,linux_gaming
 12kwn1h,Dev snapshot: Godot 3.6 beta 1,linux_gaming
 12l353t,Half-Life 1 RTX: Wine C++ Runtime Library Assertion failed,linux_gaming
+12kuxh7,Game Mode on Stock ArchLinux,linux_gaming
 12l27pd,Corectrl only controls one of my two RX 580 fans,linux_gaming
 12l24j6,Nuc x15 gets power throttled at 100w,linux_gaming
 12kk1ak,new here.,linux_gaming
@@ -291,7 +332,6 @@ title_id,title,subreddit
 12kydia,I have a software looking for steam at a place is doesn't live in,linux_gaming
 12kx6ki,ParrotOS and Steam games,linux_gaming
 12l2r6f,lost ark && black desert,linux_gaming
-12kuxh7,Game Mode on Stock ArchLinux,linux_gaming
 12k4r5d,Public Test Patch Notes for Update 1.2.0 - Grounded now has Steam Deck Support and will run beyond the Xbox login screen,linux_gaming
 12jo7b1,CoreCtrl Now Available In Debian & Ubuntu 23.04 For Managing Your System,linux_gaming
 12kt0uv,Switch Pro Controller NEEDS Steam to connect,linux_gaming
@@ -384,9 +424,8 @@ title_id,title,subreddit
 12gxgi7,Low CPU clocks whilst having low temps in games,linux_gaming
 12gijzh,Proton refuses to launch games (Note: its the same result for all versions proton),linux_gaming
 12gf4pt,"planning to switch to linux but am doubtful about shader cache stuttering in dx12 games. I know dx11 is fine now. Also am planning to play dx12 games not from the steam store, hence no shader pre-caching. Should I stay on Windows if dx12 stutters havent been fixed yet? (i cant stand them)",linux_gaming
-12gruuv,So about halo infinite,linux_gaming
-12fsd13,Iris 1.6 for Minecraft 1.19.4 Brings Many New Features for Shader Developers,linux_gaming
 12gdquv,f2p shooter ironsight works on linux,linux_gaming
+12fsd13,Iris 1.6 for Minecraft 1.19.4 Brings Many New Features for Shader Developers,linux_gaming
 12h6xte,Total War: Warhammer II is running natively but doens't run with DXVK/Proton,linux_gaming
 12h39u9,new steam library folder must be on a filesystem mounted with execute permissions 2023,linux_gaming
 12gipat,Seeking Recommendations for new laptop,linux_gaming
@@ -957,6 +996,9 @@ title_id,title,subreddit
 11yh9md,Save 75% on Pillars of Eternity on Steam,linux_gaming
 11zw13q,Ubuntu 20.04.6 LTS Released With Restored UEFI Secure Boot Support,linux_gaming
 11zwpo3,Looking for free Android games emulator on Linux in 2023,linux_gaming
+12rypoz,Hello Linux Gang I’ve got a few questions,linux_gaming
+12pumo8,Nvidia is full of it,linux_gaming
+12gruuv,So about halo infinite,linux_gaming
 11z1fz2,Who else uses debian stable for gaming like me?,linux_gaming
 11zh4ng,Ghost Recon Wildlands: crash at launch on linux desktop but not on steam deck?,linux_gaming
 11ypjxp,"Interview with the EmuDeck creators: Steam Deck is the ""king of emulation"" but ""piracy isn't cool""",linux_gaming
