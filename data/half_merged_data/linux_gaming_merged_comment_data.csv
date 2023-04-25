@@ -38280,3 +38280,1443 @@ jd3fup2,"I'm aware. Arguing with what the Windows driver does still has no relev
 The problem with Intel's ARC on Linux is that ANV is pretty bad currently. Once ANV is up to snuff, DXVK et al. will ""fix all the problems"" in the same way they do on RADV and Nvidia's VK driver.
 
 Which API the game is using makes no difference at that point. The translation layers stay the same.",linux_gaming
+jhpf2fy,"The repository looks to only contain binary data, no source code. Is that intentional?",linux_gaming
+jhpdkol,"Nice, trying this tonight.",linux_gaming
+jhpe5u4,nice! gonna try it out. Thank you,linux_gaming
+jhpl65i,Thanks!!,linux_gaming
+jhph6px,"The executable actually seems to be just a bash script, but I was confused at first as well.",linux_gaming
+jhpkwng,"It is just a bash script:
+
+https://gitlab.com/es20490446e/exeCute/-/blob/master/root/usr/bin/exeCute
+
+---
+
+If you need binary stuff, check out `proton-caller`:
+
+https://github.com/caverym/Proton-Caller/",linux_gaming
+jhmrgzr,"If you like FPS games and have good control of rage, then try out Team Fortress 2 and Counter-Strike: Global Offensive.",linux_gaming
+jhmrpbc,PROJECT ZOMBOID 🔥 i love how the dev also posts development progress,linux_gaming
+jhmzd76,"RimWorld
+
+Valheim",linux_gaming
+jhmr0im,"The paradox grand strategy games, e.g. HOI4, EU4, Crusader Kings, they are all great fun.",linux_gaming
+jhmu9wp,"Battle for Wesnoth, 0 A.D., Vegastrike, TORCS, Warsow, ... There are plenty of fun native Linux games which you can install directly using your Distros package manager...",linux_gaming
+jhmuk6w,X4: Foundations with DLCs is 100% worth a look.,linux_gaming
+jhn7bcb,"B.A.R., Warzone 2100, 0A.D., Widelands",linux_gaming
+jhmpvbc,Deus Ex: Mankind Divided.,linux_gaming
+jhmvt8j,"Feral did great job with native ports of new Tomb Raiders.
+
+Vampire Survivors has native .sh despite it not showing Linux native support on Steam.
+
+Apart from classics like Terraria and Stardew Valley:
+
+* Valheim
+* Caves of Qud
+* BioShock Infinite
+* Factorio
+* Life is Strange and Before the Storm
+
+But I don't know what's wrong about Proton/Wine - it's just as a compatibility layer as WoW64, which enables running 32-bit programs on 64-bit Windows is. But hey - it's your business, I'm just happy there are gamers on Linux :3",linux_gaming
+jhn6hqd,Dead Cells,linux_gaming
+jhnksyi,Factorio,linux_gaming
+jhmpuga,"I'm quite fond of Into the Breach and Barotrauma, but I'm a weirdo.",linux_gaming
+jhn6avb,OpenTTD,linux_gaming
+jhmvzee,0 ad is pretty cool,linux_gaming
+jhn9h3z,Stardew Valley,linux_gaming
+jhmlw49,"[Transistor](https://store.steampowered.com/app/237930/Transistor/) and [Psychonauts 2](https://store.steampowered.com/app/607080/Psychonauts_2/)!
+
+Edit: And ofc [Bastion](https://store.steampowered.com/app/107100/Bastion/).",linux_gaming
+jhn8f0b,Kerbal space program for the space nerds. There's even a prolific modder called linuxgurugamer,linux_gaming
+jhmxkr6,I think both ultrakill and dusk are linux native,linux_gaming
+jhn0irq,CSGO,linux_gaming
+jhnbp9z,"Total War: Warhammer 3 is sick.
+
+Valheim was, afaik, created for Linux first then ported to Windows.
+
+Of course there's all of Valve's games.",linux_gaming
+jhmm92v,Inscryption,linux_gaming
+jhn8iec,Rimworld,linux_gaming
+jhngj2h,Can't believe nobody has mentioned the ultimate native Linux game: SuperTuxKart!,linux_gaming
+jho8w6n,"Celeste is an excellent platformer.
+
+Factorio is an excellent sandbox game.
+
+Rimworld is an excellent colony-building game.
+
+Slay the Spire is an excellent deckbuilding game.
+
+FTL: Faster Than Light is an excellent shoot-at-spaceships-with-your-spaceship game.
+
+Crosscode is an excellent RPG.
+
+There are many others, but these are my favorites.",linux_gaming
+jhmp32t,Hammm War Thunder its a good one,linux_gaming
+jhmpzaz,Spiritfarer,linux_gaming
+jhnaalc,CrossCode was very enjoyable.,linux_gaming
+jhnol5e,"* Stardew Valley
+* Civ VI
+* Valheim
+* Graveyard Keeper
+* Dead Cells
+* Factorio
+* Children of Morta
+* Hypercharge Unboxed
+
+Hard to go wrong with any of these, if they fit what you're looking for.",linux_gaming
+jhmx5ra,"The one and only, Celeste (if only you want a challenging game)
+Also, Skullgirls,  if you want a fighting game",linux_gaming
+jhn5n7r,"TF2 is my favourite, but play in dedicated servers",linux_gaming
+jhmi1ws,"My favorite Linux native game is an in-dev MMORPG called [Project: Gorgon](https://store.steampowered.com/app/342940/Project_Gorgon/).  
+For $39 (Buy once play forever, no P2W, PVE only), often on sale for even less, I've got about 2000 hours worth of gameplay out of it and it's provided a very refreshing MMORPG experience.  
+
+Recent updates upset a lot of veterans by making a lot of heavy handed changes to prepare for additional content while the game is in-development but overall, it's still one of the better MMORPGs on the market. These changes will help to even the playing field for new and old players before the next big content drops which will include one or more of the following: player housing, guild halls, dwarves, orcs, 4 new zones.  
+
+It's probably a year away from it's official release. No progress will be wiped.",linux_gaming
+jhmly4q,Running with rifles is addicting and very good game.,linux_gaming
+jhn5uy7,csgo :),linux_gaming
+jhnc4tc,"All Valve games, Alien:Isolation, Cities:Skylines, Black Mesa, Life is strange, Soma",linux_gaming
+jhne3a8,Portal 2,linux_gaming
+jhnkkzx,"If you're into large RPGs, based on tabletop games. Pathfinder: kingmaker  is Linux native",linux_gaming
+jhnp42x,"Pillars of Eternity
+
+Torchlight 2
+
+Divinity:Original Sin",linux_gaming
+jhn27tb,Source SDK - fucking HL2 mods.,linux_gaming
+jhn83sm,https://github.com/ppy/osu,linux_gaming
+jhna7ja,Zero-K is great fun if you're into RTS games,linux_gaming
+jhnfjwo,"A few games from Klei Entertainment. Actually, that's a bit of an exaggeration cause they only have one game that doesn't have a native port at the moment.
+
+There's also a few from Frictional games if you hunger for some horror.",linux_gaming
+jhnfts8,Papers please,linux_gaming
+jhnzaxa,Hollow knight.,linux_gaming
+jhn17fq,Dota 2,linux_gaming
+jhnehwb,"Civ games are usually a good bet, and Paradox Interactive games are really good native running games too.",linux_gaming
+jhn7nxy,quaver,linux_gaming
+jhnan2b,"Metro last light, subnautica, vampire survivors, prey, path of exile, any valve game, project zomboid, resident evil series",linux_gaming
+jhnbge3,Mad max and tomb raider,linux_gaming
+jhnf7f7,Hollow Knight and 7 Days to Die.,linux_gaming
+jhnjoo8,"Ziggurat, Sky Rogue, Crash Drive 3, Quake Arena",linux_gaming
+jhp5dy1,"Wildermyth seems to have gone mostly unnoticed, which is too bad, because it's an excellent blend of storytelling and turn-based combat. I like how characters from previous runs can reappear in new ones.",linux_gaming
+jhngapw,"Risk of rain 1, sadly the sequel isn't Linux native, but it works great with Proton",linux_gaming
+jhniwb2,"Subset Games' duology, a space RPG akin to Star Trek called FTL: Faster Than Light, and a turn-based grid strategy called Into the Breach",linux_gaming
+jhnkhon,"LEFT 4 DEAD 2, it's fun, fast, great co-op, healthy active community, unlimited replay value. The mod support is incredible in this game Custom Campaigns, weapons, skins, UI etc. With the endless Custom Campaigns like I said unlimited replay value.
+
+It's an FPS masterpiece.",linux_gaming
+jhnl87v,"Battletech by HBS
+
+Vampire Survivors - retro style and quick fun",linux_gaming
+jhnmuth,"Actually, this reminds me that I played [Please Be Happy](https://store.steampowered.com/app/844670/Please_Be_Happy/), liked its story and was amazed by how good its presentation is, but got busy with other VNs. I think I'll pick that up. It's Linux native since it's built with renpy.
+
+Speaking of engines, technically RPG Maker MV/MZ are native games as well -- there are people who compresses the games and make a Linux executable for them as well, which is probably just an nw bootstrap of sort. You can run them natively by downloading nwjs-bin (manually or through AUR), though I've had problems with versions after v.0.72.0.",linux_gaming
+jhnn055,"Teleglitch
+
+https://store.steampowered.com/app/234390/Teleglitch\_Die\_More\_Edition/",linux_gaming
+jho35xt,Warzone 2100 with ARmod (Art Revolution mod).,linux_gaming
+jho59hm,[NetHack](https://en.wikipedia.org/wiki/NetHack).  It's the standard ~~[editor](https://www.gnu.org/fun/jokes/ed-msg.en.html)~~game.,linux_gaming
+jho9ch0,"Undertale 
+
+Go into it blind. Trust me",linux_gaming
+jhocb2i,"Lol kind of a loaded question 🤣
+
+Any of the native valve titles are great.  If you can sort by ratings then the top ones are gonna be good. 
+
+What genre are you looking at?
+
+Some gems:   
+
+- Stardew valley 
+- native paradox games (may be controversial but I love them)
+- valheim
+- RimWorld
+- dwarf fortress (not native on steam yet, runs great in proton or you can get a Linux build from their website)",linux_gaming
+jhocvo8,"It is a small game, but Skillwarz is pretty nice, it is like a buggy CSGO but with some extra mechanics, like sliding, wall jumping, perks.
+ I think the main page is on itch.io or the forum, not sure about steam.",linux_gaming
+jhoexos,"[Mindustry](https://mindustrygame.github.io/).  Fun, straightforward RTS.
+
+[Minetest](https://www.minetest.net/).  Similar in spirit to Minecraft, but built for modding.  Large modding community.  Making your own mods is easy and fun.",linux_gaming
+jhofm80,"All games frictional games.
+
+
+SOMA N1.
+Penumbra / Amnesia.
+
+
+----
+
+KSP.
+BeamNG.drive has linux folder (work for me)",linux_gaming
+jhoifd8,"virtual circuit board is quiet fun to mess around with, though it is quiet technical as it is a digital logic sim",linux_gaming
+jhoj9ls,Stardew Valley,linux_gaming
+jhoka98,CDDA anyone?,linux_gaming
+jhon7fr,I'll throw in Torchlight 2 and Victor Vran.,linux_gaming
+jhotczy,ur-quan masters and transport tycoon are classics.,linux_gaming
+jhotv54,Euro Truck Simulator 2,linux_gaming
+jhpbz7l,"Portal is a must play, it is for cheap, it an old game, and is amazing.",linux_gaming
+jhnepef,"Dota 2, last epoch,  valheim, project zomboid, minecraft, borderlands, euro truck 2, not really native but path of exile added a vulkan support so I'm counting that one too.",linux_gaming
+jhp4s38,"I wouldn't focus on native games so much. Quite often you're better off playing with Proton, even if there's a native version.",linux_gaming
+jhmnbav,"The stability of the ports is (at least on Linux Mint) a bit finicky, but the Tomb Raider reboot games are pretty good and on sale right now. If you want something to play with friends I'd recommend Gang Beasts.",linux_gaming
+jho67as,I recommend linux-from-scratch or write your own language frontend for llvm!,linux_gaming
+jhoqudg,"Unless you're specifically looking to reward developers for providing native binaries, I would use ProtonDB and/or the Steam Deck verified/playable badge over this filter.
+
+Many games actually perform worse with the native executable than if you just run the Windows exe through Proton. This is usually because the dev didn't take any time to optimize the Linux build, and just threw the linux executable in as a second thought. And there are tons of games with no linux executables that run perfectly well on Proton, you could never tell the difference.",linux_gaming
+jhmyr9e,"Do not buy wasteland 3. It’s native, yet runs worse than games that don’t support Linux natively.",linux_gaming
+jhobj5u,"there are a lot of native linux games ;).  but besides the grammatical error as far as games on linux idk if its actually linux native but i play a lot of no mans sky, both flat and VR on my Steam Deck and main gaming rig respectively.",linux_gaming
+jhmjnnd,None. It's almost always better to run the Windows version with Proton.,linux_gaming
+jhnensn,[deleted],linux_gaming
+jhn2fxl,"By the way, most native games run better with Proton.",linux_gaming
+jhmyhx6,Caves of Qud and TomE if you're into Roguelikes,linux_gaming
+jhnr2a6,Rimworld.  Runs great on linux.,linux_gaming
+jhnsncw,"Immortal Redneck,
+Inscription,
+Core Keeper,
+2064 Read Only Memories,
+CrossCode,
+Freedom Planet,
+Freedom Planet 2.",linux_gaming
+jhnsnne,"I would recommend the Total War games because most of them are have native ports but, you are better off running them in proton now.",linux_gaming
+jhntv5i,Project zombois,linux_gaming
+jhnxcln,Just in case you haven't heard of Hollow Knight it's one of the best games ever made.,linux_gaming
+jhnxklr,"I don't know that I can recommend it without having played it yet, but tomorrow a monster taming game called Cassette Beasts is coming out. It looks incredibly charming and inam very excited to play it!",linux_gaming
+jhnykan,I mean any valve game is good,linux_gaming
+jho5s13,"Team Fortress 2, it's FREE!",linux_gaming
+jhobjzb,Haven’t run it on my distro but Hotline Miami works on Linux. Note: it says on the steam page that it only works for 32-bit,linux_gaming
+jhofptl,STK 💀,linux_gaming
+jhogyo7,"Hearts of Iron 4 Is good if you like strategy and world war two type games.
+
+Prison architect is also really fun too",linux_gaming
+jhoh5jz,"Can’t believe no one has mentioned Xonotic, and it’s predecessor Nexuiz. Classic quake-style arena death match games. I’ve always enjoyed a round or two of mayhem in them!",linux_gaming
+jhojlom,"Not mentioned elsewhere, i really like kingdom and castle as a nice little city builder. Special mention to SOMA, quite short but really stayed with me.
+
+Appart from that I spent a lot of time on these native games :
+
+* Civ V and VI
+* RimWorld
+* Kerbal space program 1
+* Factorio
+* Tomb raiders (the 3 from the reboot)
+* Bioshock Infinite
+* Deus ex mankind divided
+* 7 days to die
+* All half life and portal games
+
+A lot of other windows games run fine with proton.",linux_gaming
+jhokkiq,"- Oxygen Not Included: extremely addicting if you like base building and management. The visuals are super fun.  
+
+- XCOM and XCOM2: Tactical game where you build your own squad and start zapping aliens. I have played these games beginning to ending 2 or 3 times already, and its still not out of my system.  
+
+- Enter the Gungeon: Its a bullet hell game, but its so good and the weapon variety and characters are so interesting that even if you hate bullet hell games (like me) you end up enjoying the game anyway.  
+
+- Hollow Knight: best metroidvania game I ever played. Wish I could erase my brain just so I could play again.",linux_gaming
+jhom2m6,"Honestly, Dota 2. The meme about Dota 2 is ""2,500 hours played on record; Not Recommended"" and that the player base can be toxic, and the rumors of its [complexity](https://steamcommunity.com/sharedfiles/filedetails/?id=123364699) are true, but the in-game tutorial system is excellent, the Linux client is more or less perfect (much better than the Linux Steam client that's for sure), and there is a good reason why people play it for that number of hours. I only have the patience for its Turbo mode anymore (where games last 20 to 30 minutes instead of 40 to 70) but it's kind of ruined a lot of other games for me for how fun and deep the gameplay (and, a lot of the time, the community!) are.",linux_gaming
+jhoo9kn,"Art of Rally:  
+
+
+[https://store.steampowered.com/app/550320/art\_of\_rally/](https://store.steampowered.com/app/550320/art_of_rally/)  
+
+
+Not a simulator but more realistic than arcade; plus gorgeous graphics; plus you can drive the Quattro S1, Delta S4, 037",linux_gaming
+jhop3h9,"LIMBO:  
+
+
+https://store.steampowered.com/app/48000/LIMBO/",linux_gaming
+jhoppwa,Don't starve,linux_gaming
+jhp376k,Flight of Nova if you like flight sims.,linux_gaming
+jhp3jp5,"I don't know if anyone else has recommended this one, but Factorio is an AMAZING one. Plus the developers have a blog where they give you some insight into how they are optimizing things in the game",linux_gaming
+jhp4f6g,The new tomb raider series. They are just ports but run even better than on Windows in my case.,linux_gaming
+jhp4unc,"If you like(d) Minecraft but want something with much more depth and a much more interactive crafting system, I can't recommend [Vintage Story](https://www.vintagestory.at/) highly enough!
+
+I need to emphasize: **much more depth**. Think stuff like an actual climate, climate-based biomes, farming that requires paying attention to the conditions plants require to grow (temperature range + nutrient levels) actual lore, incredible terrain generation, and a hell of a lot more.",linux_gaming
+jhp98ul,Dying Light,linux_gaming
+jhpc792,The one that starts at 419€ and it's the 2nd row in the list lol.,linux_gaming
+jhpe1a3,Last Call BBS is a cool lil puzzlegame for those with a crave for retro,linux_gaming
+jhphlc8,Civilization V/VI,linux_gaming
+jhpjg5j,FTL,linux_gaming
+jhn3585,CS:GO is fantastic as a Linux native game. I've been able to get even better performance than on windows depending on the map.,linux_gaming
+jhnh7t7,Isn’t TF2 over run with bots/loby hacks? I remember trying to find a server that looked nearly full and them being completely empty once I joined,linux_gaming
+jhpdxoa,You can't leave L4D2 off that list.,linux_gaming
+jhobuw7,"Zomboid is a lot of fun, it's so hard though for my dumbass",linux_gaming
+jhp3a0x,It's been in 'early release' since [November of 2013](https://imgur.com/a/ygfggQ0)- I wonder if they'll ever complete it...,linux_gaming
+jhmr2m7,You forgot Stellaris ! :),linux_gaming
+jhngv39,"Absolute garbanzo games, literally bottom of the barrel black mold",linux_gaming
+jhncpvr,For me it works better than on windows,linux_gaming
+jhnk91h,How's the new one that just came out?,linux_gaming
+jhn9zog,Mm Warzone 2100. What an but a goldie. It's so impressive to see that game still gets patches and support.,linux_gaming
+jhp8991,"Haven't played Widelands for a while good idea.
+
+0.A.D. is quite unique in some way since soldiers are also resource gatherers/builders.",linux_gaming
+jhnsqqg,I own this but have never played.  I didn't realize it is Linux native.,linux_gaming
+jho2hb3,"There is *absolutely nothing* wrong with Proton. It's awesome!
+
+However, devs making native Linux versions shows that they take Linux seriously as a gaming platform. It's never my main consideration, but if I'm trying to decide between two games and only one of them has a native Linux version, I'm getting that one.",linux_gaming
+jho39h3,"> Factorio
+
+Seconding Factorio.  Amazing game, runs amazing natively.",linux_gaming
+jhn376d,"I thought Bioshock had this launcher update, as a quality update or smth like that ?",linux_gaming
+jhnmmvg,"Native just performs better, if devs are not monkeys. But it seems nowadays devs struggle even with Win versions of their games.",linux_gaming
+jhn493s,"The problem with wine/proton, unless developer official supports it, you may get slapped with anti-cheat detectors.",linux_gaming
+jhndk3p,"Last time I checked, the native linux port for Vampire Survivors has no official release date due to problems with the changes made to the game before version 1.0 and doing some quick google search, they have to push it back due to the mobile release (Here's an article about it: [https://www.gamingonlinux.com/2023/01/vampire-survivors-dev-poncle-outlines-2023-plans/](https://www.gamingonlinux.com/2023/01/vampire-survivors-dev-poncle-outlines-2023-plans/))
+
+You can still switch to public beta on steam if you want to try the native port and collect the achievements on steam and such.",linux_gaming
+jhnnlln,"I had stutter and fps drops with rise of the tomb raider. So I wouldn't say it was a splendid job but a good try. Maybe it is my distro, idk. But I tried it on windows, and the problems were gone. 
+So OP beware of some games where this might be the case, just because they run natively doesn't mean that you will be getting the same performance.",linux_gaming
+jhnfcz8,What's wrong? No support. They don't consider you their customer.,linux_gaming
+jhnwusx,"> Tomb Raiders
+
+- **2013** - uses OpenGL. It's a compatibility nightmare, it relies on outdated system libraries: I had to add, among other things, old CentOS 6 or 7 libraries to make it run on a modern distro. **You're better off using the Windows version instead.** >!If you're up for a challenge, check out [the ArchWiki page](https://wiki.archlinux.org/title/Steam/Game-specific_troubleshooting#Tomb_Raider_\(2013\)) for guidance.!< *Note: Saves aren't cross-compatible!*
+- **ROTTR** - uses Vulkan. It has some missing features like DLSS, but it's no big deal, because its DLSS implementation looks hideous anyways. Other than that Linux version supports Playstation controller glyphs unlike the Windows version, but on the other hand Linux version has wacky stick sensitivity which ignores the sensitivity slider. **In general, it's a decent native experience.** *Note: Saves aren't cross-compatible!*
+- **SOTTR** **(I don't own the Linux version)** I've heard the Linux port is pretty darn good, but in case you're interested in the Windows version - its DLSS is wayy better looking than ROTTRs (don't forget appropriate env vars to enable it! You need at least `PROTON_ENABLE_NVAPI=1`). Also, it runs great through Proton GE, I definitely recommend using that over Wine GE, which has poor performance (I played it outside of Steam, but it's also available on Steam so I guess it's still a ""Steam game"" going by GE's definition?) So to summarize **Windows version runs really well,** especially when set to DX12/VKD3D (might require another env vars to unlock).
+
+> Vampire Survivors has native .sh (...)
+
+DDLC does that too.
+
+> Terraria
+
+If your monitor is above 60Hz the game will be very jittery, frame skip can't fix it. I managed to stabilize it with Mangohud's frame limit using `fps_limit_method=early` config option. Other than that **it works great.**
+
+(tip: you can enable Vulkan backend using `/gldevice:Vulkan` option) 
+
+> Valheim
+
+The cursor is wacky in menus at 1440p, but dropping to 1152p (wtf?) fixes it (could be caused by XWayland? By fractional scaling? idk). Other than that, **it works great.**
+
+-------
+
+That's all I had to say about games, maybe these tips will be helpful to someone here.
+
+> But I don't know what's wrong about Proton/Wine (...)
+
+Agreed, most of the time you don't need a Linux version to play a game.",linux_gaming
+jhopwmj,"We are at a point where I the proton version is less hardware taxing and more stable. I found the native Tomb raider and metro exodus (2nd dlc) buggy where they would crash unexpectedly, but the proton version worjed like a charme.",linux_gaming
+jho2uyg,"I had to go way to far down into this thread to find this. The game's been around for *years* and they're still adding free content to a game that started out fantastic. Add in the really, really great DLC, and this game's one of the all time greats!",linux_gaming
+jhpc6wh,made by a worker cooperative too :),linux_gaming
+jhn44sq,Barotrauma is a great game especially when you have a few buddies you can coordinate with,linux_gaming
+jhnkz1c,"> Psychonauts 2
+
+based",linux_gaming
+jhp01qw,">  Psychonauts 2
+
+On my 5700XT, it runs wildly better on Proton than on native, the latter being a stutterfest and struggling to maintain high FPS.",linux_gaming
+jho4ran,That is: KSP version 1. The new version 2 isn't out yet for Linux - not sure how likely it is that they actually go ahead with a port.,linux_gaming
+jhmzusd,"Dusk is great, haven't tried ultrakill... yet",linux_gaming
+jhn99rr,"Dusk is Linux native, Ultrakill is not. That's why earlier is in my Steam account, latter isn't.",linux_gaming
+jhngfwr,Ultrakill ia not Linux native but works great,linux_gaming
+jho67pw,But Warhammer runs better with proton,linux_gaming
+jho5rqy,What about BZFlag?,linux_gaming
+jhn7nfd,Ok that hook was interesting. What makes it so good?,linux_gaming
+jhonn2n,"Its sequel Wrath of the Righteous is not, unfortunately. But no issues here running it in Proton.",linux_gaming
+jhp8cpq,"Torchlight 2 is a good idea, very good modding still.
+
+Maybe also the first version.",linux_gaming
+jho1ala,"Civ games are better played via Proton, unfortunately. Native port of Civ VI is bad - terrible performance later in  the game.",linux_gaming
+jhofq8s,Warzone 2100 is a gem,linux_gaming
+jhogis2,You are not the only one that like paradox games. I do too,linux_gaming
+jhpb6tc,"*this* ^
+
+The Windows version running though Proton often performs better than the native version.  Not always, mind you - some games run better native on Linux than though Proton or even directly on Windows, but it’s not so common that I’d prioritise them.",linux_gaming
+jhmyxlv,"Hon that's true for most many ports, they run better under proton than they without.",linux_gaming
+jhmker0,"If the developers don't make a decent linux version then they cannot sell games to me.
+
+But feel free to buy those gamsz",linux_gaming
+jhnjg03,Not native which is what OP asked for.,linux_gaming
+jhn66w2,"Not depending on the map, the OpenGL version is significantly faster than the D3D9 one, I get from 20 to a 100fps more on Debian 11 with nVIDIA 470 drivers than Windows 11 with the laest 525 drivers, truly an absolute win for linux.
+Also in terms of convenience, when you alt-tab on linux, somehow the video card switches modes instantaneously while on windows you have to wait a while lol.",linux_gaming
+jhnqwlm,I mean by now you can probably run it on a casio watch.,linux_gaming
+jhoya4r,It’s weird how gamers will do anything to squeeze out fps except push developers to support games on a faster OS with less bloat. The only reason windows is better for gaming is compatibility,linux_gaming
+jhonl55,it doesn't run ootb on most distros.,linux_gaming
+jhnit5n,"Not sure. But the last time I played it I had used its match-making feature to be paired up with a team, and play on official servers.",linux_gaming
+jhnylf0,"Yeah basically, but there's always [Uncletopia community servers](https://uncletopia.com/) which is free of bots
+
+They have some pretty nice changes too imo. They've disabled random crits, disabled random spread and there are class limits, only letting max 3 players play a class at a time on each team
+
+These changes do attract people who play the game a bit more competitively though, and so the average skill level of a player there is higher than in casual. That could be a pro or a con depending on how you play the game and your skill level",linux_gaming
+jhnthf4,yes its pretty much impossible to play now. you have to play on private moderated servers to avoid hacking bots that run around spinning and headshoting everything,linux_gaming
+jhnlt4j,"Either play valve casual (that has a bot problem ranging between no big deal and unplayable) or play reputable community servers like uncletopia.
+
+All those rtd orange x10000 !freeitem 2fort servers fake their ping and player count.",linux_gaming
+jhor18y,"It's definitely better than it used to be, you can actually play matchmaking now. There are still bots out there and they can take over servers, but it's a lot more rare now.",linux_gaming
+jhnbh0y,It's the main game. The others just are primitive/pre-ftl dlcs,linux_gaming
+jhooaay,"Is there a way to play that game without auto-dying to the \[spoiler\]interdimensional death monsters\[/spoiler\]. I was having fun playing it, then they showed up, I got slaughtered, and I uninstalled lol.",linux_gaming
+jhnllji,Each to their own but id say it’s difficult to claim bottom of the barrel. Which one did you play and why didn’t you like it?,linux_gaming
+jhoiytj,"yes, hence why i have over 2k hours in eu4",linux_gaming
+jhoglfa,Most games these days do tbh.,linux_gaming
+jhpbsyd,"Amazing. Adds a bunch of unique stuff in the new star systems, plus tons of opportunities to build your empire into a newly opened and desperate for resources/still expanding empires territory.",linux_gaming
+jhncojb,"What about Original war? It still get updates too, and unique RTS of is kind.",linux_gaming
+jhp32uz,"The port is terrible in terms of performance - everything's just a wrapper and it was made before Vulkan was really a thing. 
+
+It was my way of saying limiting yourself to native ports is a dumb idea. Expand your horizons and don't settle for crap - Wine was made for a reason.
+
+Seems to have flown over everyone's heads.
+
+Damn good game, though. ^Just ^make ^sure ^to ^run ^it ^with ^Proton.",linux_gaming
+jhpbwng,Has native wayland support. Just added it sometime last month!,linux_gaming
+jhn3sw7,"Yeah, but they fixed it way back in February methinks.",linux_gaming
+jhno1e8,"For literally every native game I tested so far, the proton version did run better.",linux_gaming
+jhn6p9e,"You'll just get message that game couldn't detect an anti-cheat, that's all.
+
+I believe only Bungie (rip old Bungie ;-;) went scorched earth and bans anyone who tries to run Destiny 2 on Linux for some reason...",linux_gaming
+jhnbgrd,"I believe the only games left are Roblox, Fortnite, and Destiny 2... which I doubt many people here are interested in.
+
+Halo MCC just got native anti-cheat but no cross-play.
+
+Overwatch supposedly detects Wine, but only to tell you which version to use for best compatibility.",linux_gaming
+jhnet9h,"I believe that Linux port will come along with the new engine release, as the game still runs in HTML5+JS... But yeah, as for now what they promised they delivered, so I'm just waiting.",linux_gaming
+jhnqap8,"I recommended TRs because I got 15-25% more fps than with Proton, and they worked flawlessly from start to the end. Maybe hardware differences, maybe distro, I dunno.",linux_gaming
+jhngxol,"Bruh... It's 2023. Who uses official support nowadays, when you have huge database of problems and solutions available at Google, Bing, Duck, whatever. The most you can expect from official support is getting back automated response.
+
+And when it comes to Steam Support they're super helpful and have very relaxed  approach to Linux gamers, no matter if native or Proton games. They have no problem refunding you for a game even months after purchase when it stops working on Linux for whatever reason.",linux_gaming
+jhp8coz,"It's not version 1 and version 2.
+
+KSP 2 is a sequel: IE a completely different game.
+
+A very mixed game sadly.",linux_gaming
+jhpd0wq,"Reading between the lines of the KSP2 launch, they have officially decided to cancel the promised Linux and Mac OS support and just dont want to announce it yet.
+
+No game that says ""we are releasing into early access, but will ONLY do so on Windows. Linux and Mac OS will be developed alongside and released with the full game"" *ever* does that. They think itll be an easy export and then when its not because they made a bunch of stupid Windows specific decisions making the game they just cancel it.
+
+Not to mention I'm genuinely skeptical the game will ever be fixed. It really feels like the publisher is done paying for the game and just wanted to recoup their losses. The pace they are advancing through the roadmap lines up with some investor leaks, and flies in the face of the very idea the game will *ever* be enjoyable to play due to how bug ridden it still is.",linux_gaming
+jhpkdtv,"Oh yeah of course. Personally don't count KSP2 as out yet given it seems barely functional, still in early access, and has yet to reach feature parity with KSP. Don't have high hopes for it.",linux_gaming
+jhn0fne,Actually peak boomer shooter mechanics in my opinion,linux_gaming
+jhoxxrh,"still i play in the native version, i prefer native",linux_gaming
+jhofvga,"This happens a lot...
+
+Nevertheless, it is an answer to his question.",linux_gaming
+jhovqdd,"16 classes  
+11 animal classes (Yes, you can play as animals)  
+71 trade skills  
+
+The depth is insane.  
+The game uses real-life moon phases that the werewolves have to rely on.  
+If you walk outdoors in real-life and see a full moon, you can log into the game and be at your strongest as a wolf.  
+Careful though, being a werewolf in the game is a permanent choice that cannot be reversed like other curses.    
+
+Every class has the ability to do damage so even the healers have capable damage abilities when playing solo.  
+That said, the game does have a trinity system so tanks and healers have a part to play.  
+
+If you get cursed and become a cow, it's advised that you also pick up cheesemaking since you can milk yourself.  
+If you eat a vetetarian diet in-game for 2 weeks, your milk production will increase which can increase profits.  
+Other players can ask to milk you too so with your permission, you could always assist other cheesemakers.  
+
+Alongside cheese, there are over 840 consumable foods in the game.  
+Eating foods keeps a player fit for battle.  
+Combine food buffs with snack buffs and you become much more capable in battle.  
+
+If your a male and get turned into a Deer, you become a Stag  
+If you're a female and get turned into a Deer, you become a Fawn.  
+
+1 character can switch between any class so all progress made on gathering and tradeskills never needs to be repeated if you don't want to make an alt.  
+if you level up and decide that class isn't for you, you can start leveling a different class.  
+The game uses a dual classing system so whatever 2 skills you have on your hotbar will determine what items drop for you.  
+If you're inventory gets full, you can drop items in the game world for others to pick up.  
+
+All mobs have the ability to drop legendary items, at any level. The rarity only determines the number of stat bonuses an item provides.  
+When crafting, you can swap out these stat bonuses to benefit only the skills that you prefer to use.  
+
+When you die to a boss, you get a permanent curse until you kill the boss.  
+If you're not strong enough to remove the curse, you have to enlist help from others to help lift your curse.  
+There are hundreds of different curses in the game and they can all stack.  
+
+Just reading the number of skills on the wiki is enough to make ones head spin  
+http://wiki.projectgorgon.com/wiki/Main_Page  
+
+If ever anyone was looking for one MMORPG to play for life, this would be a good title to consider.  
+Oh, last thing, all quests are 100% optional. Similar to Skyrim, the game doesn't have rails, it doesn't hold your hand, you can pick your own adventure and go where ever you want.",linux_gaming
+jhpil3s,"> Torch
+
+I don't think the first one was ever released natively on Linux.  Works great with wine though.",linux_gaming
+jhonwzy,"And that's the good one. I'm not sure how many updates Civ VI is getting now, but back in the day it was always behind and just a bad time. I've played Civ V natively but Civ VI only via Proton.",linux_gaming
+jhp8gen,"Civ5 was ok.
+
+Civ 6 lags quite behind but is still playable.",linux_gaming
+jhn3149,"that’s the only case this bad I experienced, although to be fair I play mostly games that weren’t ported to Linux like morrowind or smt 3",linux_gaming
+jhmnxxf,"The thing is that lots of small and indie devs use the Unity engine to make their project feasible.
+
+And unity kind of sucks where the Linux export is concerned. 9 times out of ten, the windows version performs better using Proton than the native port, *and* the effort to maintain a separate Linux port and deal with all these extra headaches is, in most cases, too much for said small time devs.
+
+If a developer puts in the effort to make their game run well on Proton, the results are often much better for a lot less effort, meaning the devs can put their time into improving their game or making a new one.
+
+I consider this investment into a well functioning Proton port ""Linux support"" and will be more likely to buy and support the developer.
+
+If your goal is to support Linux, you can go the purism way, but that will raise the barrier of entry for both developers and users.
+
+Lowering said barrier works much better, as witnessed by the small Linux gaming ""boom"" since Proton got released, with the latest big milestone being the Steam Deck.
+
+Which shows new groups of users that gaming on Linux is a lot less scary than it used to be.",linux_gaming
+jhnb1ow,"Maybe these developers want to focus on making a good game, rather than porting it to Linux. Especially since Proton is a fantastic solution.",linux_gaming
+jhnaizm,For me OpenGL kinda sucks. But Vulkan does have more performance than DirectX on my machine (GPU is a 6700xt),linux_gaming
+jhofpir,"I get more FPS on CS:GO as well, but I'm I the only one that it seems like the anti aliasing is failing quite often?",linux_gaming
+jhng1c0,"That's doesn't sound right OGL is always slower than directx, are you sure you aren't running it under vulkan?",linux_gaming
+jho0kh1,"Exactly what I was planning to say. Imo as long as you don’t mind getting beat down by someone with 20,000 hours every so often, Uncletopia is like old casual, just with no random crits, bullet spread or class stacking which is a plus or a minus depending on your views. I wish more people knew about Uncletopia, it truly feels like pre-not TF2",linux_gaming
+jhop4zp,OH FANTASTIC! I hadn't heard about any community stuff. I'm gonna check that out!,linux_gaming
+jhnbxk8,Lol ;),linux_gaming
+jhpbksz,"You mean the end game crisis? Theres 3 varants (one is interdimensional crystal monsters) and they spawn around yr 2400. You can just disable them on the game settings screen before you actually start playing.
+
+If not, maybe you mean one of the midgame crisis that spawn around yr 2300. Thats also disableable.",linux_gaming
+jhozh7a,"You wasted 2k hours of your life, congratulations",linux_gaming
+jhojedz,I hadn't played it! Thanks for the info it looks good.,linux_gaming
+jhn6rw3,Fixed as in reverted?,linux_gaming
+jhnqr6x,Which is odd as you would think some kind of combatibility layer would decrease performance.  Wizardry and dark magic!,linux_gaming
+jhoqjxi,">For literally every native game I tested so far, the proton version did run better.
+
+Because the devs are retarded spaghetti code monkeys and know nothing more than consoles and maybe windows. They just pressed EXPORT TO LINUX and donezo. Enjoy your native linux build boys:) You know, all those translations from win32 to linux aren't zero-cost.",linux_gaming
+jhokd4a,"Valheim didn't for a long while at the start. Pretty unstable. Props for a native linux server though with autopausing unlike vrising.
+
+My friends and I play valheim across continents from each other and have a blast. Amazing game.",linux_gaming
+jhntljt,"Their website claims they only ban you if you try to bypass the anti cheat, if just open the game will be kicked but not banned. Their words not mine.",linux_gaming
+jhnmkhy,Sadly I still need a Windows PC for Fortnite😭,linux_gaming
+jhndq3g,I regularly play overwatch 2 without major issues through bottles.,linux_gaming
+jhnjbir,Hell is loose,linux_gaming
+jhnq5hx,"Overwatch 2 works fine in Wine.  There's a bug there where the mouse loses focus but that's a matter of using the correct GE Wine build (GE Wine 7-34). 
+
+Can you explain what you mean with Wine telling you which version to use for best compatibility? For me it was trial and error. Every time there's a new version out I try it but so far I always have to go back to 34 to not have that mouse-bug.",linux_gaming
+jhnxpo3,"MCC definitely supports cross play on all MP instances, including Linux. I played on my steam deck with my son last night on his xbox. It also supports cross PC and Xbox for I believe Halo 3's campaign and they said they are evaluating adding the others, so we will see.",linux_gaming
+jhoohk7,"Ooops… I meant Civ VI. I heard the same about Civ V, but I only played that one natively.",linux_gaming
+jhn935g,https://www.gamingonlinux.com/2022/05/morrowind-gets-shiny-in-openmw-with-post-processing-shaders-coming/,linux_gaming
+jhnbft3,"Making a good game and make the game available on Linux mutually exclusive to each other.  
+
+
+I have plenty of good games with good native Linux support.",linux_gaming
+jhoje92,"had the same issue with opengl so `%command% -vulkan -novid -max_fps 300` fixed it, makes sense tho since i have a 6750xt so our GPU’s are basically the same",linux_gaming
+jhnbc0x,F,linux_gaming
+jhofus5,"Idk, I am a competitive csgo player, everything on low, no antialias, and ofc in 4:3 resolution.",linux_gaming
+jhnivyt,"No, the Source 1 engine on linux is OpenGL. And I don't know where you got that OGL is always slower than DirectX, it's not. DirectX is very very bloated, and runs in a convoluted OS.",linux_gaming
+jhn7ho9,"Yes, ""fixed"" :3",linux_gaming
+jho5zwk,"It's not that odd, since most companies don't put a lot of work in their Linux versions, so with Proton it runs much better since it uses the windows version which got a lot more love from the devs",linux_gaming
+jhnsxgq,Indeed!,linux_gaming
+jhnqjzl,Not even the Mouse bug? Where you loose focus after you die?   Do you use an Nvidia or AMD GPU? (I'm trying to find out if it is gpu related).,linux_gaming
+jho1fh7,[For now](https://www.gamingonlinux.com/2023/04/hell-let-loose-planning-steam-deck-support/).,linux_gaming
+jhn9qht,"I almost never mod my games, but this looks lit",linux_gaming
+jhp1xls,I just got that AMD MSI 6750XT on slickdeals /newegg .. how do you like that card for Linux gaming?,linux_gaming
+jhojqt2,comp without faceit or other anticheat?,linux_gaming
+jhnqal6,"The way I understand it is that Open GL is faster than old dX like dX9 as you said. However, it's lacking some features that newer versions of dX has. In an apples to apples comparison to dx11/12 Open GL may be more performant simply because there is less for it to do. Another thing is that on a GPU bound system dX will manage resources better than OGL will.
+
+On a Linux platform, all that goes out the window because it's not running natively. But on windows I believe dX is more performant than OGL.",linux_gaming
+jhpc4fb,"A lot of it is down to using commercial engines that just say they support Linux when in reality, they don't. Performance being halved and such is common with Unreal for example and its not getting any better despite Unreal claiming to support Linux.
+
+Redoing the entire engine is often sadly too much for a dev studio, so they cant release a good Linux version even if they wanted to.",linux_gaming
+jho6zyu,"Sure, or you could say it's because Wine just emulates the parts that are required to run the game minus the rest of the windows bloat.",linux_gaming
+jho1ivg,"I have an AMD GPU 6700xt
+
+I had a focus issue with alt tabbing but figured out it was a problem with my window manager and found a work around. 
+
+I also installed bottles through flathub and I don't remember when I last updated so I could be on an unaffected version.",linux_gaming
+jhn9x76,That's not actually a mod. That's an engine re-implementation to run the game natively and more.,linux_gaming
+jhp2gvw,"works out of the box for the most part. plays csgo with no problem at 1440p@144hz. Can get a little hot with some unreal games, mainly Satisfactory but my factory is quite large. Minecraft performance is amazing if you use sodium+iris so it can properly use the gpu. If a game has a vulkan renderer i tend to prefer using it over opengl or translating from directx as it usually preforms the best. usually enabled in the settings or a cmd line flag",linux_gaming
+jhojv89,"Standard matchmaking.
+
+Faceit anticheat does not support Linux for some god unknown reason.",linux_gaming
+jhpgqgf,"But now they're able to optimise for Proton, so not all is lost. Seems to be a good compromise between putting resources into a Linux native, or just focusing on the Windows version and adding tweaks and stuff to get the best experience for Proton.",linux_gaming
+jho7uky,Even though wine is not an emulator ;),linux_gaming
+jho4kbk,"Oh ok maybe it's only happening on Nvidia cards. I mean, it works perfect for me now but it was a PITA at first. Thanks!",linux_gaming
+jhobcnm,"No it's wizardry and dark magic with a dash of api call translations!  :)
+
+Such a cool piece of software. I was impressed to run things like ms office back in the day and now it's full on gaming!  If it wasn't for some games' anti-cheat software not working I wouldn't have to reboot into windows at all anymore.",linux_gaming
+jhmxnuq,Mindustry,linux_gaming
+jhmx3aw,"I used to love tactical RPGs, but as I've aged I don't have the patience for them.  I really wanted to play Battle of Wesnoth (https://www.wesnoth.org/), but it was not to be.  Then I found this gem and it scratched my space sim itch, https://endless-sky.github.io/.",linux_gaming
+jhn7cih,"Endless sky. Space trading and combat game similar to the Escape Velocity series. Also has an android port on f-droid.
+
+https://endless-sky.github.io/",linux_gaming
+jhmyzhw,SuperTuxCart,linux_gaming
+jhmzzux,[Xonotic](https://xonotic.org/) my beloved,linux_gaming
+jhn1xd5,0ad   And   Bzflag for when I just need a quick fix,linux_gaming
+jhohuci,"Thank you for making a post about FOSS games. I wish there was more FOSS content on this subreddit. Maybe this sub has grown so much it would be appropriate to create a separate subreddit for FOSS gaming..?
+
+My current favorite is [Beyond All Reason](https://www.beyondallreason.info/). Before BAR, my favorite was [Zero-K](https://zero-k.info/). Both BAR and zk use the same game engine, [SpringRTS](https://springrts.com/). BAR and zk are very similar to one another, and they're successors for Total Annihilation and Supreme Commander.
+
+Other games I've played a ton include OpenTTD, Xonotic and SuperTuxKart.",linux_gaming
+jhnghyi,"OpenRCT2, by a long shot. But OpenTTD has a special place in my heart as well.",linux_gaming
+jhnj3l8,"I really like **The Dark Mod**, a Thief: The Dark Project clone.",linux_gaming
+jhmxdk9,[OpenArena](http://www.openarena.ws/) and [Urban Terror](https://www.urbanterror.info/); spent tons of time with them back in the day!,linux_gaming
+jhn454a,"Urban Terror, ~~Red Eclipse~~, Unknown Horizons, The Powder Toy, StepMania, OpenClonk, Colobot
+
+&#x200B;
+
+Red Eclipse was my favourite years ago, sadly they dropped all the maps, weapons and modes that i prefered. The new version sadly is a different game.",linux_gaming
+jhof8o6,"Beyond All Reason RTS (latest spiritual successor of Total Annihilation and Supcom). I happen to Dev that game but at the same time I honestly can't stop playing it since more than a decade, it's too good.",linux_gaming
+jhnfsii,Widelands and OpenTTD,linux_gaming
+jhnxm0y,[Unciv](https://github.com/yairm210/Unciv) is cool.,linux_gaming
+jhntmlz,OpenTTD,linux_gaming
+jho46rn,"OpenTTD, Cataclysm, I also like Widelands, and Dungeon Crawl Stone Soup",linux_gaming
+jhoia2b,Battle for Wesnoth,linux_gaming
+jhp0gvn,"GZDoom and Sonic Robo Blast 2. ...so another Doom, but make it Sonic.",linux_gaming
+jhnotfr,It's funny that the answers in this thread are the same as you would get 15 years ago.,linux_gaming
+jhne3vh,Any CubeWorld or Trove fans should check out Veloren. Still in alpha but already has a decent amount of content.,linux_gaming
+jhnklh3,0ad,linux_gaming
+jho2ep1,Spacestation 14,linux_gaming
+jho5izp,Tales of Maj'Eyal. It's a very broad scope roguelike that has enough content to feel more like an open world RPG than a roguelike. Great game.,linux_gaming
+jho7rg9,OpenRA,linux_gaming
+jhorg2l,"Oolite and Pioneer, great games for Elite fans.",linux_gaming
+jhpe7va,Cataclysm Dark Days Ahead.,linux_gaming
+jhnjbdv,"With the amount of streams I have with [modded](https://mod.io/g/openxcom) [openxcom](https://openxcom.org/), I'm pretty sure I'm already addicted to it.",linux_gaming
+jhnns1u,Nexuiz,linux_gaming
+jho9rax,0ad,linux_gaming
+jhocgts,0AD and Urban Terror,linux_gaming
+jhohfqt,You may like [Unciv](https://github.com/yairm210/Unciv),linux_gaming
+jhoibap,Mah-jong (solitaire and not the real casino game),linux_gaming
+jhojds7,cube 2: sauerbraten,linux_gaming
+jhor4ji,"I genuinely wanted to play this again for years. I remembered playing this as a kid, but forgot the name ever since.
+Thanks for bringing the name up again :)",linux_gaming
+jhotm3h,"why can't I find Beyond all reason here, BAR is such a goat coming from RTS on Linux",linux_gaming
+jhox0zo,"Xonotic and flightgear, but if source available reverses count then openMW all the way",linux_gaming
+jhoybel,"Minetest!
+
+  
+Then OpenMW and GZDoom if you count those.",linux_gaming
+jhp2gdl,"I enjoy loads of Linux games both native and on wine but sadly I don't have much experience with open source games. There's oad which I did really like and then..... um..  I played oad and it was good. 😁
+
+It was a wide open race of one game for me.",linux_gaming
+jhp3xjs,[osu!](https://github.com/ppy/osu/),linux_gaming
+jhp6jgp,Sauerbraten 2,linux_gaming
+jhp7gs0,"Doom, OpenRCT2, OpenRA, NetHack, Xonotic... oh fuck how could I forget Armegatron Advanced?",linux_gaming
+jhp7toy,Vintage Story. Based on a long time/underrated minecraft mod.,linux_gaming
+jhp9ri5,[osu](https://github.com/ppy/osu),linux_gaming
+jhphyuf,I'm just here to simp for OpenTTD.,linux_gaming
+jhpj1yu,[Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) will forever be my favorite game and they recently open-sourced it.,linux_gaming
+jhpj7jf,Don't mind me. Just taking game name notes and reading comments. Keep them coming.,linux_gaming
+jhpjjfo,"I don't have *the* favorite, I really like many of the already mentioned games. But still missing is [Hedgewars](https://www.hedgewars.org/)! It's like Worms and great fun for multiplayer evenings.",linux_gaming
+jhnyrlr,"Pioneer Space Sim is really good if you like that sort of thing - initially started as a clone of Frontier: Elite 2, but has grown massively since then.
+
+https://pioneerspacesim.net/",linux_gaming
+jhpb63m,"\*SuperTuxKart
+
+But yes, [big fan](https://github.com/supertuxkart/stk-code/pulls?q=is%3Apr+author%3AQwertyChouskie).",linux_gaming
+jhnzfd4,my man,linux_gaming
+jhoo95f,Yeah is game has always been a blast. I’ve played it back when it was Nexuiz.,linux_gaming
+jhpj87v,see you on Xoylent ;),linux_gaming
+jhmy4h4,Why only back in the day? And not thise days?,linux_gaming
+jho6xgv,"check out blue nebula, red eclipse 1.x fork",linux_gaming
+jhp2wt6,Step mania would be a like for me also if I didn't suck so hard at rhythm games. And could nove my fat ass faster having played it on the matt.,linux_gaming
+jhp3ncz,"True, but on the other hand we have way more commercial games available for Linux now, which solves the problem that people used to whine about 15 years ago.",linux_gaming
+jhp7kyi,No one wants to make open-source games anymore when they could spend their time making commercial games.,linux_gaming
+jhoe4d9,"Minus Mindustry and  Cataclysm, I feel.",linux_gaming
+jhoto8b,"and best of all, its free (real estate)",linux_gaming
+jhp2l1h,"Ow wait, super tux cart. There now it's a battle. Also good",linux_gaming
+jhn5o45,"*wörk wörk wörk*
+
+;'(",linux_gaming
+jhp34zq,Played it with a usb rhythm mat was like I think I might be dying now.,linux_gaming
+jhpfkhc,Well yeah there will always be some guys crazy enough to build their own engine from scratch but honestly I expect more from my games than 15 years ago. And to do that without using any of the commercial/closed-source engines available just looks like a crazy task.  I'm mainly talking about fps/mmo multiplayer games but I feel like most open source games available can run on a phone.,linux_gaming
+jhpft5b,"Yep, the tools available are just so much better.",linux_gaming
+jhn7h01,We should stop working so hard,linux_gaming
+jhn2x6v,">I've not contacted mods yet. 
+
+.... Why not?",linux_gaming
+jhmfv1x,"Dont know which sites would be scams here, gog, humblebundle are normal ones for example.",linux_gaming
+jhp0je0,"Thank you for bringing this to attention, even tho I am a bit sad, that u/warbird2k was the first guy that actually at least pinged me in this thread 6 hrs after posting. I haven't had much time to attend the wiki or be on Reddit, but for obvious reasons I do check my work e-mail often enough. There is my work e-mail posted on wiki, together with my Reddit username, and you could have at least tag me.
+
+That said this issue was raised to me before, but due to time constraints I haven't had time to clean the wiki before, I just set the page creation permission to require registered user. This apparently did absolutely nothing.
+
+To combat this in a more long-term way, that wouldn't need my attention too often, there are two possible ways from my quick research. A) using reCAPTCHA (via [https://www.mediawiki.org/wiki/Extension:ConfirmEdit](https://www.mediawiki.org/wiki/Extension:ConfirmEdit) extension) B) requiring confirmed E-mail address to edit. I am currently inclined to using both cumulatively, but I am open to further discussion. The reason the wiki was as much open as possible was due to the nature of the Linux community and many of the users being very privacy centric. This approach is sadly not possible anymore, as we see. Using reCAPTCHA needs JavaScript enabled and can be a pain, especially for users with hardened users where it can't detect legitimacy other way than showing pictures. E-mail verification requires you to provide valid E-mail, and even tho I have no intention to use this maliciously and will serve the purpose just for verifying the user, I do understand that some users might not prefer this.
+
+Both ways will require me to prepare some legal documents and do other modifications to the website to be compliant with GDPR, as I would be requiring your private information (E-mail address). With regard to reCAPTCHA (and correct me if I am wrong), that would on the other hand probably create cookies, so then the cookie consent would be required.
+
+Both ways, it will take me some time to resolve this issue, and if anyone is interested in helping I am very open to collaboration.
+
+Thank you, and please use this thread for any ideas or opinions regarding of possible solution.",linux_gaming
+jhnhgsk,are you self reporting?,linux_gaming
+jhor01s,"Nicely done, [whoever did this](https://linux-gaming.kwindu.eu/index.php?title=Main_Page&oldid=1947).",linux_gaming
+jhne8ru,Att: /u/slouchybutton,linux_gaming
+jhnfw8q,Maybe the site needs more mods. If the admins are interested I can voluntary be one. This wiki has so much potential and it's not popular enough. I'm blanking all spam pages to avoid scams,linux_gaming
+jhoe7x0,Probably from Nintendo,linux_gaming
+jhoktpd,">Why not?
+
+***OBVIOUSLY*** because posting it on Reddit for karma is more important.",linux_gaming
+jhofowv,"Yeah, I just tested and I'm able to randomly edit stuff without being logged in.
+
+I think at the very least, registration should be mandatory. Web is a jungle. It's sad but it's the truth. I'm the first annoyed when I have to create yet another account.
+
+Maybe SSO solutions can be worked on in the future but at the very least: 
+
+
+* mandatory registration to edit
+* captcha on both registration & log in pages
+* If this isn't enough, operate on blacklists of valid email domains vs temporary ones that can be used by bots to abuse registration system
+* Some select anchor/beginner pages requiring special privileges to edit",linux_gaming
+jhmhgix,"probably most of these:  
+https://linux-gaming.kwindu.eu/index.php?title=Special:AllPages",linux_gaming
+jhp61iq,"You are welcome.  
+
+
+I have been a lazy idiot for not immediately contacting you for this issue. I am very much sorry. Now hopefully it will get all solved soon!",linux_gaming
+jhp7xpz,"UPDATE: All spam pages should be hopefully deleted (including the ones from past report some time ago).
+
+For now, I am leaving edits and account creation blocked until the solution for preventing this will be added. I'll try to add it soon enough (this week, hopefully)",linux_gaming
+jhowlrm,"Thanks for the heads up, i was previously contacted and I restricted page creation for unregistered users.
+
+I'll have to investigate this further, because apparently this did absolutely nothing. I have no clue how I'll proceed but for now I am restricting page creation even for created users.",linux_gaming
+jhmnk3e,"Damn, that's awful.
+
+Edit: And slightly hilarious:
+
+>No one is examining your shoulders, so you can take this harsh truth.
+
+Criticize me all you want, but don't you dare put your eyes on my shoulders, friendo!",linux_gaming
+jhnfg87,God that just looks like ChatGPT spam.,linux_gaming
+jhpk9gj,"No worries, like nothing really happened, the thing should be contained now, so it doesn't really matter.
+
+At least the information got to me eventually through this post, so thank you.",linux_gaming
+jhoyu6q,"Bots managed to circumvent the page creation restriction by registering massive numbers of accounts.  
+Maybe we need captcha protection, one account per IP, etc... I'm not an expert in the field.  
+
+
+Look at the users list: [https://linux-gaming.kwindu.eu/index.php?title=Special:ActiveUsers](https://linux-gaming.kwindu.eu/index.php?title=Special:ActiveUsers)  
+
+
+So. Many. Bots.",linux_gaming
+jhn5koa,That's really weird considering [8BitDo Pro 2](https://www.8bitdo.com/pro2/) supports Linux via both Bluetooth and wired out of box.,linux_gaming
+jhnlqnn,"The Bluetooth mode should work on any Distribution with Steam installed, as Steam treats it as a regular switch controller. I tested this on Fedora 38 and SteamOS. (Strangely the controller doesn't appear if Steam is not started prior to connecting the controller) The switch controller driver in the Kernel doesn't seem to detect it, so it doesn't work without Steam. The 2.4G dongle works on SteamOS as intended, but I haven't been able to get it working on Fedora. I think said AUR package installes a few udev rules depending on the old xboxdrv, so those should in theory work on any distro. Tho I think this should be easier: https://github.com/paroj/xpad",linux_gaming
+jhncwit,Try installing xpadneo-dkms if you can find it,linux_gaming
+jhn2m00,"The only thing I can see is to compile with the same configure as Archlinux kernel and do what most has done on arch. Or wait until Nintendo provide code for third-party controllers onto the kernel where Ubuntu update to (or enable).
+
+I got to use the 8BitDo Ultimate pro controller with both Bluetooth and 2.4Ghz, it was finicky but it works (on ArchLinux).",linux_gaming
+jhnzurz,"I needed this driver and udev rule to make it work:
+
+https://github.com/paroj/xpad
+
+			ACTION==""add"", \
+				ATTRS{idVendor}==""2dc8"", \
+				ATTRS{idProduct}==""3106"", \
+				RUN+=""${pkgs.kmod}/bin/modprobe xpad"", \
+				RUN+=""${pkgs.bash}/bin/sh -c 'echo 2dc8 3106 > /sys/bus/usb/drivers/xpad/new_id'""
+
+I'm on NixOS though, so I don't have an easy to replicate way to install in on Ubuntu, though the readme has an ""Installing"" section that probably works",linux_gaming
+jhn83sz,"on arch, installing the aur package for xpad seems to make it work, at least with just the 2.4ghz dongle",linux_gaming
+jhos8d1,"Yeah I wish I had seen this a couple days ago. Pretty annoyed that the listing advertised Steam Deck support but it's with a tonne of caveats. 
+
+After a lot of work, I found and used the unofficial scripts and got 2.4 mode """"""working"""""" but only as an xbox controller, so I couldn't use gyro or back buttons. 
+
+bluetooth mode works out of the box on SD but only as a switch controller, so the back buttons are very limited. 
+
+Pretty dissapointed overall.",linux_gaming
+jhn98j7,I think it's because the pro 2 just uses generic bluetooth in xinput mode. The ultimate seems to be dinput in bluetooth and xinput in 2.4ghz? But the dongle would probably need some sort of official package to make it work on most linux distributions. Afaik there is no such package for ubuntu and the likes for now,linux_gaming
+jhp18rr,I think whatever it does to try and detect what it's plugged in to so it knows if it should appear as a Switch controller or an XInput controller breaks it. It would be nice if they let you override it using a button combo when it gets confused.,linux_gaming
+jhnzp47,"I also use that xpad github project:
+
+    sudo git clone https://github.com/paroj/xpad.git /usr/src/xpad-0.4
+    sudo dkms install -m xpad -v 0.4 --force",linux_gaming
+jhnq0ds,That's weird. For steam it would flat out not detect it with bluetooth on ubuntu. This may just be an ubuntu bug. You think i should report this?,linux_gaming
+jhnzbqi,I tried this but then HZD started crashing on my system,linux_gaming
+jhp9570,How does steam installed help outside of steam ?,linux_gaming
+jhna6lb,"I'm bummed honestly. I may have to send mine back to amazon. It's kindda weird and odd that this specific controller won't work in an easy way on linux.
+
+Their previous controllers had no compatibility issues on linux",linux_gaming
+jhou2nu,"For me bluetooth doesn't work on ubuntu. Steam doesn't see anything. And the 2.4ghz is the same.
+
+
+Deffinitely not a controller one can buy and just use on linux",linux_gaming
+jho6z91,I am using flatpak steam. You could see if it the controller is detected in that package and if it is report it to the Ubuntu package maintainers.,linux_gaming
+jhpk3c7,"Small correction on the last statement. The 8BitDo Pro 2 Wired also did not work for a long time, so Ultimate is not the first with compatibility issues.
+
+Just tried it and apparently somewhere recently it got fixed, as it works now without installing xone.",linux_gaming
+jhm8ar1,"Isn't it nice that we're in a situation where it's like ""Oh, well that sucks, just switch back to an older version while we fix the new one"" because we actually have the choice to do so? If this was windows, it'd be like [""Well, sucks to be you! Hope you like having less security patches if you wanna fix this.""](https://www.pcworld.com/article/1663285/windows-11-may-be-slowing-down-your-ssds-again.html)",linux_gaming
+jhlnsut,"Yup, this is why they have multiple versions available.  :shrug:",linux_gaming
+jhmk8at,I have been having random freezes on okami under proton 8 too. Seems like there are a lot of games affected by the comments. Nice thing that we can change the version in use.,linux_gaming
+jhmjpe6,Are these versions also set by valves on other distributions?,linux_gaming
+jhm8v4v,Is it okay with ge most games work fine with ge,linux_gaming
+jhltwj2,The ``SKIPINTRO`` (must be capitalised) command-line option also fixes Age of Empires Ⅱ on all of the setups I tried.,linux_gaming
+jhlskvh,"There have been multiple regressions, Path of Exile is also affected.",linux_gaming
+jhnax54,UnderRail started doing that to me too a few months ago.,linux_gaming
+jhmbmdz,"Yes, it's awesome that Valve, the company running the largest gaming platform, has shifted their focus to a good OS.",linux_gaming
+jhn9mz8,"> again
+
+FFS Windows what are you doing!?",linux_gaming
+jhmkc6e,"Yep, the only issue is to find all these problems and solutions a few months after.",linux_gaming
+jhnd9wa,This is the correct way to use proton. Having a version control always avaliable makes it very useful for the end user. I'm not changing some games to proton 8 since it already works pretty well.,linux_gaming
+jhnqm98,Just coming here to say this! I was SO happy when I saw my character be able to walk and the game not freeze!!,linux_gaming
+jhmqms5,Came here to say this. Works fine in proton7,linux_gaming
+jhlb4nj,I thought this person was talking about the remaster?,linux_gaming
+jhnauqe,"the steam version is the remaster but, the original probably works on wine just fine, not sure why it would not work on proton too.",linux_gaming
+jhne04z,"CS2 is still only for windows, but hopefully they will release cs2 in linux since there is already a linux executable",linux_gaming
+jhlttl5,"Regressions happen in any project. So far it doesn't seem to be as bad as Proton 6, which particularly big and I don't think they managed to fix most of them until later in Proton 7.
+
+The changes in Wine 8 stable and staging sounds like it introduces a lot of changes to the underlying Wine, so a few regressions aren't unexpected. This is exactly the point why older versions of Proton remain available.
+
+Valve isn't doing anything wrong in putting Elden Ring back in Proton 7. Development HAS to progress, but user shouldn't need to know about that, so just put them, this isn't a hardware issue where suddenly Proton 7 is bad just because Proton 8 exists.",linux_gaming
+jhlmhj8,What the fuck do you think proton experimental is?,linux_gaming
+jhlj8mq,"Thanks for bringing that up, I might have to check it out some more. I was convinced it was just Proton.",linux_gaming
+jhmqncd,Proton7 fixes the problem though. There is no native linux beamng,linux_gaming
+jhlrjt9,Point still stands,linux_gaming
+jhniscx,I got an ancient CD of AOE2 from Goodwill and it works great on Wine,linux_gaming
+jho67yx,"> Regressions happen in any project. So far it doesn't seem to be as bad as Proton 6, which particularly big and I don't think they managed to fix most of them until later in Proton 7.
+
+Of course they do, it's software dev, they are unavoidable by essence. Rolling back is perfectly fine. 
+
+
+But we do have modern processes to try & catch at least the most visible/exposed of them. Which I was not aware of its existence when looking at Proton.
+
+
+While on Mesa for example, you can see stuff: 
+
+* https://gitlab.freedesktop.org/mesa/mesa/-/tree/main/docs/ci
+* https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/.gitlab-ci/test/gitlab-ci.yml",linux_gaming
+jhmr49w,[Of course there is](https://www.beamng.com/threads/linux-port-%E2%80%93-feedback-known-issues-and-faq.86422/).,linux_gaming
+jhnq8op,:-D,linux_gaming
+jhml196,"You've got to love comments like this. Not having any clue what the actual problem is and neither having any insight, and yet posting a comment shitting on developers. And on top of that the fix for problems like this is just using Proton7, which is just one simple config change inside the steam game settings.
+
+This is why we can't have nice things.",linux_gaming
+jhmnxyf,Future mid-level manager right here. You're going to cause a lot of hair loss in the future.,linux_gaming
+jhmrlua,My brother in christ why isn't this launchable from steam,linux_gaming
+jho51vh,"Nice, I understand now, do you know where one might see this QA & tests process.
+
+For example, for Mesa, you have this:
+
+* https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/.gitlab-ci/test/gitlab-ci.yml
+
+Where you can see how Mesa targets a number of heavily used applications and tries to validate releases against them. And of course, all the directory with various things like VKD3D, Fossilize etc. There's even infrastructure for replaying application traces if we are to believe the CI docs, which is neat.
+
+I don't see such things on : https://github.com/ValveSoftware/Proton
+
+Or any page where you can see builds & tests passed. Does that exist somewhere and can we see/check it?",linux_gaming
+jho6536,QA != CI,linux_gaming
+jho6i5k,"Yes, but you can integrate a part of QA into your CI. You won't cover everything, yes, but it'll usually save your ass on more occasion than one. Especially when you have a commercial device depending on your software stacks being as regression-free as possible. And we know Wine is quite prone to these when complex applications like video games are involved.
+
+Especially if you can feed it with near perfect real user cases. Aka something close to some of the tests Mesa is doing from my PoV.",linux_gaming
+jhodq1s,"The words make me think ""mobile game where you place tiles in some puzzly fashion"", which puts me off to it since that's not something I'd be intesested in. That said, genres almost exclusively gain understanding based on experience so if it got enough examples showing otherwise, I'm sure the feeling would change.",linux_gaming
+jholi2g,Makes me think of a phone game where you build bridges,linux_gaming
+jhoubor,"Thanks for the feedback, I appreciate it!",linux_gaming
+jhoud57,"Thanks for the feedback, I appreciate it!",linux_gaming
+jhpk162,"I think VAPPI is the current option and it works fine with H.264. I don't think H.265 was supported last time I tried. And no AV1 either.
+
+There was no need to install any proprietary drivers. Can't say about quality - I didn't analyze it. But it was good enough for some in-game footages.",linux_gaming
+jhn5csd,"Great game if you're into cRPGs. I think the sequel is ultimately a better game, but Kingmaker has some great moments. 
+
+If you're into DnD but haven't tried Pathfinder, they are very similar rule sets in practice, so you shouldn't have too much of a growing pain.",linux_gaming
+jhnp20b,Tried playing this and it seemed to get more and more lag the further into the story I got.,linux_gaming
+jhoihfw,You can save 100% if you download russian game from torrent tracker.,linux_gaming
+jholwfw,But that would be illegal....,linux_gaming
+jhony7d,"That's not illegal in Russia, moreover it doesn't break most popular russian torrent tracker rules, unless you publish commercial software or games of certain russian companies like 1C, but you shouldn't be sorry for these developers.",linux_gaming
+jhos0l3,It might not be illegal in Russia but in most of the world it is illegal,linux_gaming
+jhm4jin,"Hopefully, there will be system wide 3D LUT support on the deck. Currently, you can use vkBasalt for most games (but annoyingly, it isn't available in the default image) but would be nice to cover the UI and non-Vulkan content as well.",linux_gaming
+jhmxrwd,Click on the battery icon in the taskbar and you can change it there.,linux_gaming
+jhm3t9y,They are definitely at least waiting for mesa 23.1,linux_gaming
+jhmxtmq,Would I even be able to install that on the SD? Immutability 'n all.,linux_gaming
+jhn684o,"Nvidia compressed colors for a few generations, even despite full 8 bit",linux_gaming
+jhndfpa,"Perhaps, but I would think that an LTS kernel might allow for security and stability updates, at least.",linux_gaming
+jhndb6r,"Ubuntu or Debian would've allowed for easier access to PPA or .deb packages when flatpaks aren't an option. Thankfully, I was able to get Citrix working with a Chrome plugin instead.",linux_gaming
+jhn2s0r,https://archlinux.org/packages/community/x86_64/light/  can u install this ?,linux_gaming
+jhn77w7,"I assume they probably still do that, same as AMD does with recent generations (display dcc), but that compression is lossless..",linux_gaming
+jhn7kx3,It wasn't until Nvidia stopped is the issue,linux_gaming
+jhnu7v2,"Certainly. I just think using something like Ubuntu LTS but rolling their own kernel, mesa, etc would've also been a good idea since Arch doesn't do any sort of backporting for security fixes.",linux_gaming
+jhn907f,"And on which generations was that, supposedly?",linux_gaming
+jhn9q3b,"Keplar and Maxwell iirc. It was to get around those generation's poor memory bandwidth. They stopped pretty quickly, but many people still remember it because they weren't clear about it",linux_gaming
+jhlw0iu,Are there any downsides of me running this command right now to increase vm.max? `sudo sysctl -w vm.max_map_count=2147483642`,linux_gaming
+jhmu8ji,"Taking a look at it I see mine at:
+
+`vm.max_map_count = 16777216`
+
+So Kernel-TKG (currently using it, version 6.3) seems to have this tweaked. Default openSUSE Tumbleweed kernel is at `65530`. What do the different values do? Do we need steam-deck level values?",linux_gaming
+jhn941t,"May I ask what this is suppose to achieve?
+
+I am new to Linux Gaming.
+
+Thanks.",linux_gaming
+jhmwu07,What are these games doing where this limit is even a problem? 65k mappings is absurd and they're evidently doing even more than that.,linux_gaming
+jhntsuo,"I read somewhere on Phoronix that SteamOS has a lot of sane optimized defaults, kinda like Clear Linux. What optimization, besides this value, have they done that I could tweak my openSUSE Tumbleweed install with?",linux_gaming
+jhnyhsn,"u/mmstick, this is over my head, but is this worth considering for Pop!_OS?
+
+[Nobara lists it as one of their enhancements](https://nobaraproject.org/):
+>vm.max_map_count = 16777216 set by default for Star Citizen",linux_gaming
+jhmd6su,"It'll only last until you reboot, you'll need to add it to a config file for it to apply at every boot.",linux_gaming
+jhmeb4x,"As mentioned in the answers it will not last post reboot.
+
+I had this issue with Hogwarts Legacy and the fix was to create a file
+
+`/etc/sysctl.d/99-sysctl.conf`
+
+with value
+
+`vm.max_map_count = 1000000`
+
+If I remember correctly it's supposed to be the same value than the one on the Steam Deck, I don't have one so I can't confirm, but it did stop the game from crashing.
+
+This was the solution for me: [https://github.com/ValveSoftware/Proton/issues/6510#issuecomment-1422699309](https://github.com/ValveSoftware/Proton/issues/6510#issuecomment-1422699309)
+
+I'm using EndeavourOS and the default value was very low",linux_gaming
+jhmcnq4,"It takes a few clicks/keystrokes to copy and paste it into your terminal, which is time you could be spending reading more reddit posts?",linux_gaming
+jhn9f1t,"while (true) { new ... } 
+
+Don't worry the garbage collector will figure it out",linux_gaming
+jhnbznd,Probably mapping every single texture and sound one by one?,linux_gaming
+jhldrvq,Somewhere in the depths of a large multi billion dollar company somebody 20 years ago wrote some code that relies on the old value to run their entire infrastructure,linux_gaming
+jhna2s7,"I suspect it's all to do with integers and their binary representation as supported by particular CPUs. An unsigned 16 bit integer has a max value of 65535, the default is exactly 5 less than that.  A signed 32 bit integer has a max of 2147483647 and from the article:
+
+> SteamOS Ships with a value of 2147483642 (MAX_INT - 5).
+
+So the default is probably to do with supporting older processors that only allowed 16 bit ints for something.  I'm curious how the -5 was arrived at, though.",linux_gaming
+jhnyo0m,Sure https://github.com/pop-os/default-settings/pull/172,linux_gaming
+jhmxzhx,Gamemode to the rescue?,linux_gaming
+jhmgdr6,SteamOS value is 2147483642,linux_gaming
+jhmv3m8,Takes a few clicks and a paste to run rm -rf too. Advising users to just straight paste random commands and see if anything goes wrong for themselves is insane.,linux_gaming
+jhly6ux,"Job security. Just gotta improve some of those ""speed loops"" every so often. 😜",linux_gaming
+jho5ov0,I don't see how this would be releated to Gamemode.,linux_gaming
+jhmh5nu,"Thanks, I'll update my file with that one then :)",linux_gaming
+jhodaqx,"The user asked if there were any downsides to running that command. There are none on modern systems which means that the only downside is the time taken to run the command. 
+
+At no point did I say that users should copy and paste random commands into their terminal, not sure why you got that from my comment.",linux_gaming
+jhoxr42,"The purpose of Gamemode is to apply changes to the system while a game is running and then revert them. So it would make sense to add it to GM.
+
+GM can also run custom scripts pre and post game execution, so you could add it yourself through a script in the meantime.",linux_gaming
+jhmhn1j,"I have a raging headace and feel like I am coming down with the flu, but I believe the value was picked as it looks like its a signed 32bit integer to me",linux_gaming
+jhodn1i,You're literally telling the guy to paste the command in his terminal without giving any of the context you just gave now.,linux_gaming
+jhp60lr,"As far as I can tell there's no reason to use the old value, hot-switching is just unnecessary complication (and requires privilege escalation).",linux_gaming
+jhna5vl,it's a signed 32 bit integer - 5,linux_gaming
+jhotbdi,You mean the command they literally got from the article their comment was in response to? That linked to the Fedora change proposal where it was stated that there were no known downsides to the command? That one?,linux_gaming
+jhnzek8,Thanks,linux_gaming
+jhmf2lt,"Bought it, reminds me of painkiller. I noticed you wrote ""vulcan"" instead of ""vulkan"" in the system requirements of linux :D",linux_gaming
+jhm4pom,Looks like it’s begging to be played in VR,linux_gaming
+jhp86e3,"Purchased. This looks right up my street :-) Sincere thanks for supporting Linux, too!",linux_gaming
+jhmnixa,"Thanks, Hexen was one of my major inspirations! Try out Carnage Galore 3 mod for Hexen, it is bloody awesome.",linux_gaming
+jhmnnsu,"I'm a dummy, will fix it!",linux_gaming
+jhmnmet,"Glad its working good on deck! I don't have it so I could do any playtesting on it unfortunately. The delay you are experiencing is in one part due to fact that you swing the sword on key release (so you can hold it for heavy attack), gamepad might amplify the effect.",linux_gaming
+jhmnn7x,If I ever get my hands on VR set I might do a VR version.,linux_gaming
+jhmo7rl,"Glad it works well on Deck, haven't been able to get my hands on it for playtest. Biggest performance killer are Shadows so keeping those at medium helps a lot.",linux_gaming
+jhousm6,There is nothing about this sub being 'Open Source Games'-only in the guidelines. There are even wine/proton tags and links to wine and steamplay resources. Feel free to start your own subreddit ;),linux_gaming
+jhoy864,Nothing you've said here contradicts what I said.,linux_gaming
+jhljdm6,Do not install the drivers from the AMD website. Use the drivers provided by your distribution. What distro and version of Linux are you using?,linux_gaming
+jhljlns,"You don't need to install drivers at all, the drivers are already there. No AMD software needed.",linux_gaming
+jhlm1f8,"While AMD do have proprietary drivers, you should **NOT** use them, unless you know exactly what you need out of them.  
+The open-source drivers are excellent and are a part of the kernel itself.  
+The only thing you might have to install is Mesa, but it tends to come preinstalled on pretty much all the distros out there.",linux_gaming
+jhlvk3m,"You just do nothing.  
+The Radeon driver is part of the kernel.  
+The moment Linux is installed, the driver is installed.",linux_gaming
+jhmeheu,"You use Fedora. It is a well documented distro I recommend just googling like ""fedora and GPU driver"" 
+
+But usually AMD GPUs don't need drivers on Linux. Because AMD GPUs are so easy on Linux I now bought one.
+
+If you don't find a command for your distro just Google it with Linux instead of Fedora - many commands are the same for every distro or you can translate them.",linux_gaming
+jhoiwf7,"Before you reply, problem has been solved. My outdated GPU didn't support Vulkan 1.3 that is needed for Proton 8, configured steam to use Wine instead, and the game ran without any hiccups.  
+
+
+Thanks to everyone who replied though, I learned a lot of new Linux terms, which will only end up helping me use Linux better(as I have said I am almost a total linux noob here).  
+
+
+I have to say, all this kinda excites the nerd in me. I think I will end up enjoying linux after the initial learning process is over, just need to be patient till then I guess.",linux_gaming
+jhmrlna,"probs to you for not being Scared of the ternimal, my friend was horrified when I showed her how to  update her Kubuntu in the Terminal lol.",linux_gaming
+jho74pr,"Sudo dnf update
+Sudo dnf system-upgrade
+
+You are out of date so do these upgrade commands.
+AMD graphics don't need drivers only NVIDIA.",linux_gaming
+jho78xc,All linux distros will have drivers preinstalled. You don't have to do anything. Just use an up to date distro,linux_gaming
+jhmby81,I don't know all these technical terms yet. But I am using Fedora Linux 35.,linux_gaming
+jhmbrr1,"ok, thanks lol",linux_gaming
+jhmbpub,"ok, thanks. Feel like a real noob now",linux_gaming
+jhped8d,"As someone who worked on the open gl driver at amd for years, ouch. Didn't know we were seen like that (left amd years ago. All good)",linux_gaming
+jhmbnxz,"ok, thanks. I feel kinda dumb for making this thread now lol",linux_gaming
+jhmj7jf,Why use a version that's years out of date? The drivers it ships are equally outdated.,linux_gaming
+jhmrsya,"If you have Polaris gpu (RX 480) or newer, you don't need to do anything. Also you need to upgrade your distro since F35 hasn't been supported since last December. You should be able to upgrade to F37 which will be supported until ≈ November 2023.",linux_gaming
+jhmefks,"We all been there.  
+
+Many years ago I've killed graphics on my very first Linux install by trying to install GPU drivers just like you.  
+
+Turns out Linux isn't Windows and it does things differently. _Very_ differently.",linux_gaming
+jhphk00,"I'm not not a GPU driver developer, nor am I following the development _too_ closely, but as far as I know/understand, AMD have, pretty much, re-writeen their kernel-side drivers and merged them with upstream.  
+
+The open-source implementation of the userland parts like OpenGL and Vulkan got a lot of work lately (e.g. from Valve), so they tend to perform better in gaming. A lot of games/tools are also written for/tested against the open-source stack.  
+
+Things like OpenCL don't get much love at all, so pretty much the only working implementation is the proprietary one from AMD. I think Vulkan ray tracing is in a more ready state in the proprietary implementation as well, but I bet it's a matter of time until the opensource implementation takes the lead in that area as well.",linux_gaming
+jhn8brc,Don't. It's a lot to learn about at once and you can only do it one step at a time like all of us did. We all only have 2 legs!,linux_gaming
+jhn2xyr,"Don't feel that way, I've asked way worse questions, such as ""what is explorer"" or ""how do car engines work"", even such questions as ""what is gasoline"".
+
+We all started somewhere, so it is only natural that you would ask a few questions when new :)",linux_gaming
+jhnulix,"Not at all. It's a fair question especially given what you usually do on windows. Also, if you were on Nvidia, you would usually need to manually install drivers on Linux (which is part of the reason for [this](https://www.youtube.com/watch?v=paucVGmLJlI)).",linux_gaming
+jhmugw6,Imagine putting effort into *not* supporting a platform,linux_gaming
+jhmmo80,"""No Tux, no bucks"" <3 Made my day!",linux_gaming
+jhldo1r,"*Roblox* can't block wine. *Byfron* can, and is. It's Roblox that's gathering the data, and Byfron that's detecting what the client is. That's why it's not possible.",linux_gaming
+jhlut6o,"Fault might be SVB's, but we are the ones paying. If a rock falls on my head while hiking, nobody would be bailing me out",linux_gaming
+jhna7nk,"so...people give billions of their money to svb  
+svb gives billions to democrat pacs  
+democrats give billions of your money to bail out you to svb  
+
+... something doesn't add up here. i feel like we're paying twice to get fleeced.",linux_gaming
+jhlvv07,"Of course it can, any app can detect and block wine with only a few extra lines of code.
+
+It may not be what's happening in this case, but it's certainly possible.",linux_gaming
+jhmq6uw,"If I would get hot by a rock while hiking, my health insurance would pay for my hospital stay and everything else that is required.",linux_gaming
+jho3rx0,"We would be paying more if all of the businesses using SVB suddenly had no access to cash or credit. Besides the loss of these services, the economic hit would be massive and could start a chain reaction leading into a recession. 
+
+Whether the *investors* of SVB should be bailed out is another story. If you make a risky investment, that’s part of playing the game.",linux_gaming
+jhno4xy,"Something sure doesn't add up, and it's your knowledge of how banks work.
+
+SVB went under because they went hard into long term bonds when interest rates were really low, which completely fucked them once the rates got jacked up.
+
+Keep trying with the dumb political conspiracies though.",linux_gaming
+jhmp8gd,"I'm aware apps can somewhat easily detect Wine. What I'm talking about is the capabilities of the current client - it's not there.
+
+It's most certainly Byfron - the **exact** same thing happened with Fortnite after it also introduced Byfron.
+
+It makes sense for all this - the client's in beta, they don't want to risk any unnecessary changes, I'd imagine.",linux_gaming
+jhoft9p,"I have no experience with this software. Although, I'm not seeing anything about compiling it for Linux.
+
+I only see people running the windows version in WINE.",linux_gaming
+jhosdx2,Swap out all compilers used in the project targeting Windows with compilers targeting Linux. Swap out libraries requiring Windows specific features with libraries using Linux features.,linux_gaming
+jhp2b09,you can also use gameconqueror,linux_gaming
+jhpekpv,"I just compile it in a vm, long time ago i found a docker(i guess) image to build it in ubuntu but i haven't been able to find it again",linux_gaming
+jhoijq2,"Yes, but I'd like to compile, because the dev is helping me, to solve an issue. A troubleshooting step is compiling for Linux.",linux_gaming
+jho7352,"I didn't have an issue running it on Proton Experimental (to be more exact, the version which was based on Proton 7).
+
+My cutscenes worked fine, although I only played through the first part.",linux_gaming
+jhohrzk,"That's weird, in my system, the screen goes black after the dolby digital's logo.",linux_gaming
+jhmtjul,"Neat little game, can recommend",linux_gaming
+jhmp6is,"23.04 is not ""bleeding edge"", it's a fully released stable release now, just not long term support.
+
+Can you run any other Windows game with Proton? (TF2 is native Linux)
+
+You can try Proton 7 also, Proton 8 is brand new and I've had some issues with it actually.",linux_gaming
+jhmohl5,Did you use --launcher-skip ? Older proton versions?,linux_gaming
+jhn4aja,I usually have better luck with [Glorious Eggroll Proton](https://github.com/GloriousEggroll/proton-ge-custom),linux_gaming
+jhmv8e3,"Ableton ran pretty well the last time I tried. VSTs over yabridge too like pigments, waves stuff, native instruments some with some fiddeling but complete transition approved.",linux_gaming
+jhmphot,I haven’t tried others yet I’ll admit but will give it a shot. If not I’ll try proton 7 also to see if there’s any difference. You do have to install each proton version in steam and then select that version in settings>steam play?,linux_gaming
+jhmpkof,Not yet no. Was going to try proton 7 and see. Excuse my ignorance but what is launcher-skip?,linux_gaming
+jhmq21s,It's enough to just select version and then just press play.,linux_gaming
+jhmta8x,Use it as launch options,linux_gaming
+jhp28yi,"According to https://www.phoronix.com/news/Steam-HID-Steam-Deck-Linux-6.3 it's supposedly a first-party contribution.
+
+As far as practical benefits go to the majority of Steam Deck users, it will help ease the 30 or so seconds between starting Desktop Mode and the Steam Client finishing startup and taking over controller responsibilities, as the proprietary Steam Client is handling input for the other 99.7% of Steam Deck usage. 
+
+This functionality will be a huge benefit to users not using SteamOS and/or the Steam Client on the hardware, though.",linux_gaming
+jhlpl8k,Probably another flatpak user,linux_gaming
+jhmm9oy,"It's like GTK's file picker is any good lol
+
+https://www.reddit.com/r/linuxmasterrace/comments/p46cby/gtk_file_chooser_sucks_bruh/",linux_gaming
+jhl99u0,"happens to me often, desktop and deck with sdcard. desktop drives are mounted in fstab",linux_gaming
+jhn84ci,"Also you still need some KDE packages to make use of KDE file picker support (which is why GTK applications tend to not support it and vice versa). It's not an easy thing to change really, best valve can do is offer extra packages",linux_gaming
+jhmlrr3,"Well, in addition to that KDE's file picker has a button in the top right corner o the window which looks like the setting and it's called Options.
+
+If they click on that a menu opens and an item from that menu is called ""Show Hidden Files"" and it shows also the CTRL+H shortcut next to it, if someone want to learn it.",linux_gaming
+jhmi2dj,"It has been a long-running issue: [https://github.com/ValveSoftware/Proton/issues/1199](https://github.com/ValveSoftware/Proton/issues/1199)
+
+It's \_possible\_ to do it on certain kind of video-players (different videoplayers in vrchat utilize different api's it seems) by jumping through some hoops, but it can be a pretty ducttape and elmers glue experience.
+
+\--enable-avpro-in-proton helps for some videoplayers, but stuff like streaming and video-controls doesn't work.
+
+It's a pain, but it's at least a problem that is receiving attention, and I get the impression we're inching closer to a stable solution.",linux_gaming
+jhmelzn,Try putting ` --enable-avpro-in-proton` in the launch options.,linux_gaming
+jhlhj4r,"I just went through some struggles with my controller too, have you tried xpadneo? It didn't work for me, but its documentation says it works best for wireless Xbox controllers",linux_gaming
+jhljyjh,According to the Github it works with the official dongle (and I've had it work just fine) so maybe it is a 3rd party dongle issue?,linux_gaming
+jhlhoeu,"I think it only works for bluetooth, I'm trying to use the dongle.",linux_gaming
+jhlk8di,"Works perfectly unders Windows, so it's a Linux issue.",linux_gaming
+jhlqt3e,"I see, a quick Google search turned up xow for the dongle, but I've obviously never tried this",linux_gaming
+jhng0nk,"Xone is working for both official and a 3rd party dongle I own. Are you getting errors when plugging in the dongle? 
+Check the logs.
+
+This might be relevant to your OS. 
+https://www.reddit.com/r/Fedora/comments/ths6xj/xone_works_perfectly_on_fedora_for_xbox_one/
+
+It’s been working for me perfectly for years. Way better than Bluetooth.",linux_gaming
+jhlkeon,Or it's a 3rd party hardware issue given Linux actually has better support for Xbox controllers than Windows.,linux_gaming
+jhlr8br,"On Arch the only package that works for me is the xone-dkms-git.  If you are compiling yourself, the order of operations is critical.  You must unplug the dongle, follow the instructions exactly to download the firmware and compile, and then plug the dongle in.  I've always been able to get it working with third party dongles and with official dongles across Ubuntu, Fedora, and 3 different Arch based distros.  I'd bet you can too.",linux_gaming
+jhng3t2,"How would I test the dongle?
+I get nothing.",linux_gaming
+jhlru7s,"Can you please list your steps for me, with that package?",linux_gaming
+jhnoo3z,"logs. 
+sudo journalctl -f
+
+Plug in the dongle.",linux_gaming
+jhlsfj0,"1.  Unplug dongle
+2.  sudo pacman -S xone-dkms-git xone-dongle-firmware
+3.  Plugin dongle
+4.  Pair controller just like you would in windows
+5.  Hold the Xbox button for 5-10 seconds to turn controller off when done.",linux_gaming
+jhnrvqt,This command doesn't work.,linux_gaming
+jhlsojk,"I meant on Fedora, as I'm using Nobara.   
+I assume just use dnf instead of pacman?",linux_gaming
+jhlswje,"If you compile from source, that has always worked great for me too across multiple distros.  Just pay strict attention to the steps on GitHub and compiling it yourself is also quick and easy.",linux_gaming
+jhnufxb,"Then I can’t help you. I have no idea what kind of setup you have going on there. 
+
+I’m on an arch based distro and I install the xone-dkms kernel driver.  I reboot. Sync my controller and it just works. journalctl is very standard way if viewing logs on a modern Linux system. 
+
+“command doesn’t work” is not exactly enough information for anyone to help. Doesn’t work as in not installed? Was there an error? Anyway. Best of luck.
+
+That’s like going to a mechanic and saying “my car doesn’t work”. They are going to ask for specifics.",linux_gaming
+jhltiex,"I haven't run a Fedora based distros in years.  If those 2 packages are available, then yes, just substitute appropriate package manager commands.  If the packages are not available, just carefully follow the steps on the GitHub page to download the dongle firmware and then compile xone from source.  Both options have always worked for me to include years ago when I compiled from source on Fedora.",linux_gaming
+jhnw75w,"Alright, this is the output of systemctl -f:  
+Mouad-pc kernel: usb 1-3: new high-speed USB device number 16 using xhci\_hcd  
+أبريل 25 16:28:26 Mouad-pc kernel: usb 1-3: New USB device found, idVendor=045e, idProduct=02e6, bcdDevice= 1.00  
+أبريل 25 16:28:26 Mouad-pc kernel: usb 1-3: New USB device strings: Mfr=1, Product=2, SerialNumber=3  
+أبريل 25 16:28:26 Mouad-pc kernel: usb 1-3: Product: XBOX ACC  
+أبريل 25 16:28:26 Mouad-pc kernel: usb 1-3: Manufacturer: MediaTek Inc.  
+أبريل 25 16:28:26 Mouad-pc kernel: usb 1-3: SerialNumber: 000000000  
+أبريل 25 16:28:26 Mouad-pc mtp-probe\[6581\]: checking bus 1, device 16: ""/sys/devices/pci0000:00/0000:00:14.0/usb1/1-3""  
+أبريل 25 16:28:26 Mouad-pc mtp-probe\[6581\]: bus: 1, device: 16 was not an MTP device  
+أبريل 25 16:28:26 Mouad-pc kernel: xone\_dongle: Unknown symbol gip\_create\_adapter (err -2)  
+أبريل 25 16:28:26 Mouad-pc kernel: xone\_dongle: Unknown symbol gip\_destroy\_adapter (err -2)  
+أبريل 25 16:28:26 Mouad-pc kernel: xone\_dongle: Unknown symbol gip\_process\_buffer (err -2)  
+أبريل 25 16:28:26 Mouad-pc kernel: xone\_dongle: Unknown symbol gip\_power\_off\_adapter (err -2)  
+أبريل 25 16:28:26 Mouad-pc mtp-probe\[6582\]: checking bus 1, device 16: ""/sys/devices/pci0000:00/0000:00:14.0/usb1/1-3""  
+أبريل 25 16:28:26 Mouad-pc mtp-probe\[6582\]: bus: 1, device: 16 was not an MTP device",linux_gaming
+jhlubqw,"Fyi, I currently have a Garuda (Arch based) Linux machine and I use a third party cheap dongle just fine with it.  I haven't found a dongle yet that doesn't work with xone.  You can do this.  Tomorrow I can lay out the steps to compile from source if precompiled Nobara packages aren't available.  It's not too hard.",linux_gaming
+jhms3ye,"I've also tried proton 6,7,8 and GE proton. Non of these helps.",linux_gaming
+jhmweha,I'm having a similar problem with dark souls remastered. Can't figure out what the problem is,linux_gaming
+jhmyw79,https://twitter.com/Plagman2/status/1650299941699596288?t=gHaLuEOJSLa6RBypzL2r8A&s=19,linux_gaming
+jhn34nx,maybe you can try downgrade your driver and see if it works. On arch linux you can use downgrade from AUR.,linux_gaming
+jhn5n6b,"I had this issue since nvidia driver upgraded to 530, two or three weeks ago",linux_gaming
+jhn27r5,"Clearly not the same problem, you can see from the log that proton 7 is used. That said, I don't know what the actual problem is either, doesn't look like any of the common ones.",linux_gaming
+jhn481p,Yeah I'll check that out next cheers. Could be a driver issue,linux_gaming
+jhm0m4h,"It is possible to play off of NTFS, but it is far from ideal. You have to jump through a bunch of hoops.
+
+Here are the instructions you need to follow. https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows",linux_gaming
+jhlwbcp,"The game files themselves may also be different or organized differently for a Linux install. I tried the same thing at one point and couldn't get anything to run. Now that I've come back to trying Linux as a daily driver I've tried newly installed games and they work perfectly.
+
+The drive format ultimately doesn't matter, but the game files do.",linux_gaming
+jhm12hi,I think the prefixes use symlinks so you need to use btrfs. There is also a windows driver available. I use this on a ssd to share games between oses and it works fine (set gid to 1000).,linux_gaming
+jhof21k,"In my experience, you have two options for a shared library:  
+\- NTFS (with NTFS3 on linux)
+
+\- btrfs (with 3rd-party opensource driver on W10, W11 bluescreens for me)  
+
+
+However, I decided to just use btrfs with winbtrfs, and I got corruption issues with the filesystem with winbtrfs using it. 
+
+You could try getting a linux live usb and editing the partitions to give Windows more space if you need more games installed there.",linux_gaming
+jhm3dr3,Interesting! I'll have to go through this and see if it's worth it. Thanks!,linux_gaming
+jhmq2ct,"I played off an NTFS disk for about a year and didn't have any issues, so I was happy with it. I recently switched to ext4 and my load times are a third of what they were before (especially noticeable in ARK: Survival Evolved). So, I concur, it's possible, but really not advisable.",linux_gaming
+jhmkx8w,"Exactly, the wine/proton prefix directories don't work on ntfs because of symlinks",linux_gaming
+jhowxxp,I have my home folder into a seperate btrfs partition and access it in Windows 11 using winbtrfs. Only a few months in with this configuration but no issues thus far.,linux_gaming
+jhoww0x,"You could use bindfs, it's a bit of a hassle but it works.",linux_gaming
+jhoy0gm,"Do you happen to have/play EAC or battleye protected games on that drive? We're not sure where the corruption issues come from (and BSOD's), but if I had to guess it would probably be an anticheat.",linux_gaming
+jhoe60j,"Disabling the in-game overlay got rid of this problem for me. Put this in the launch options: LD_PRELOAD="""" %command%
+
+Let me know if that works.",linux_gaming
+jhmed31,is the game still compiling shaders?,linux_gaming
+jhmwkqf,Do you run OpenGL or Vulkan?,linux_gaming
+jhngjzz,I'd say it's been like this for the last two years or so on Linux. At this point I'd just wait for CS2 and pray that it fixes it.,linux_gaming
+jhn0wv5,Have you tried to enable force full composition pipeline in nvidia settings? Be aware that this setting does not persist from boot to boot.,linux_gaming
+jhovpio,">enable force full composition pipeline in nvidia settings
+
+I tried it some moments ago, the stuttering is still there. :/",linux_gaming
+jhmyqcw,"I don’t think so. I played the same map several times. And although I’m not sure how compiling shaders look like I guess this would be more like stutters in a row, like in open world games when a new map where I’ve never been before is loaded. 
+
+The micro stutters I’m experiencing feel like slow motion except everyone else is in normal speed and the stutters are just visible if I look closely.",linux_gaming
+jhmyfhk,I don’t know. I’m just running it with default settings.,linux_gaming
+jhnozqh,So this is normal?,linux_gaming
+jhn1jku,"I have to admit I didn’t know that this exists. I’ll try that, thank you!",linux_gaming
+jhpdo02,"While force composition is no longer needed under KDE Neon in my experience, changing the setting definitely used to persist upon reboot. For the record, I don't have this stuttering problem running ToGL - However the problem is very evident running Vulkan.
+
+Which is odd, as other Source 2 based games running Vulkan fly, with no stuttering whatsoever.",linux_gaming
+jhp7042,Think you replied to the wrong comment. Did you try disabling the overlay using the launch command?,linux_gaming
+jhmyi5o,You can try experimental vulkan support by using -vulkan launch parameter.,linux_gaming
+jhnucuk,It definitely isn't normal because I don't experience stutters on Windows. It's probably a bug exclusive to the Linux port of CS:GO.,linux_gaming
+jhph6va,"Strange, for me in fedora gnome it does not persist",linux_gaming
+jhnow1w,"I did try this, it didn't get better. It is as if I was stuck on microsprites on the floor. Like I'm crawling while everyone else is running.",linux_gaming
+jhnvope,It's definitely not.,linux_gaming
+jhpkihf,Before closing do you select 'write to configuration file' and then select quit as opposed to just closing the NVIDIA X server settings panel?,linux_gaming
+jho22rz,"Never happened to me on Windows, so yes, it probably is.",linux_gaming
+jhlfboe,"Have you tried DOSbox? I know you said Windows game, but iirc many Windows games from that era ran in DOS mode so it's worth a shot.",linux_gaming
+jhm4txz,Have you tried running it using xwayland? That's what most steam games use to run under wayland and actually steam itself on the steam deck.,linux_gaming
+jhlle6y,Try 86box. It's a fork of pcem if you saw the Linus Tech Tips about that. I have it on my Deck for SimCity 2000 (the Windows '95 version was the superior version).,linux_gaming
+jhlob1p,"I've managed to run several Windows-only (i.e. not based on DOS) oldies with a Lutris custom installation. I got to run games like Majesty 1 and 2, Civ 2 Test of Time or Emperor Battle For Dune.",linux_gaming
+jhlfg6l,"Creatures didn't, it was Windows only, I'm not nerdy about much but Creatures is one of them, haha!",linux_gaming
+jhn1sx6,I used whatever the Steam Deck defaulted to and that results in no boot.,linux_gaming
+jhlfztr,"The only other idea I can think of is a VM, but I know the Steam Deck can be finicky so installing a hypervisor might be asking a bit much. Then again, I do like the challenges of working around the Deck's limitations.",linux_gaming
+jhlg7lz,"That would likely also ruin the console-like experience the Deck is suppose to have, I'd probably be better off dual-booting Windows 10.",linux_gaming
+jhlgws7,"I hate to break it but Windows 10 might actually have even worse compatibility issues. While Windows loves to tout the ""We will work with anything"" bit it actually does have many issues running older pieces of software (in fact I've seen games like Simcity 2000 come bundled with a DOSbox build just to run it).
+
+I actually vaguely remember this game, I might buy it on Steam and see if I can get something working since I own a Deck as well.",linux_gaming
+jhlh6rc,"The Steam port was created with Windows 10 in mind and works fine on my Windows desktop, hell even the GOG version built for Windows XP runs fine...",linux_gaming
+jhmwi3c,"I've been using an NTFS drive as my shared Steam library since forever and it works fine, just remember to mount it [like this](https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows)",linux_gaming
+jhmw6lb,NTFS kills performance on Linux,linux_gaming
+jhmptnh,"Yes that works, and also how I do it. 
+
+Edit, that Linux game partition needs to be ext4.",linux_gaming
+jhmu3lh,I heard a lot of horror stories about running (steam) games from an NTFS drive under Linux. Personally I never had any issues with it. I have like 4 drives and I dual boot Windows 11 and Endeavour (was using Manjaro for a while but it's both arch anyway). I have all my games on NTFS drives so I can access the files from Windows and Linux without any problems so far.,linux_gaming
+jhmw9ac,Not always 100% better make own part with linux fs for steam library.,linux_gaming
+jhn8hjy,"I run my steam games under Linux, with a steam library on a NTFS partition.
+
+-------
+
+Notes I made for people trying to use steam under Linux and keeping game files on a NTFS  partition.  Notes  on ext4 filesystem at the end.
+
+Also I Found this Guide - which may  be better or have some details I overlook. 
+
+https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows
+
+
+
+------
+
+Flatpak Warning 
+
+- If your steam install is done using Flatpak  that can result in the steam program being sandboxed and limited in what it can access. I have no experience with how this limits things, the **flatseal** tool may be needed to manage the flatpak steam program.  You can setup the specific flatpak to have access to other filesystems and mountpoints outside of your home. 
+
+the command `flatpak list`
+
+  should show if you have steam installed via flatpak or not.
+
+Flatpak notes at the end..
+
+----
+
+I have NO idea how the steam SNAP version differs in how it can access other locations either.   
+
+----
+
+Continueing with the normal guide now..  
+
+------
+
+Steam Game Directory on NTFS (fat32/exfat/vfat)
+
+1. **don't use the file manager to mount the filesystem**
+2. setup a  `/etc/fstab`   line to mount it at boot time
+3. you do NOT (typically) use chown or chmod on  a mounted NTFS. (you do use those commands  with ext4)
+
+
+example fstab entry.
+
+------
+
+            UUID=1234-your-uuid-56789 /media/gamedisk ntfs-3g uid=1000,gid=1000,rw,user,exec,nofail,umask=000 0 0 
+
+**You Do NOT use  all of  those options for ext4**  
+
+------
+
+On Ubuntu you can use 'ntfs' instead of ntfs-3g  for the filesystem in the fstab options if you have ntfs-3g installed , it auto changes  NTFS to be ntfs-3g. Other distribution may differ.  When ntfs3 gets more commonplace, and stable likely people will switch to using ntfs3, and drop ntfs-3g
+
+Newer Distribution and kernels may use the `ntfs3` driver, I have not tested that driver.  Try it out and see if it works. 
+
+The various issues and problems with ntfs getting mounted Read Only still apply.  (hit up the numerous NTFS  under Linux guides for more information)  These issues also apply to exfat,vfat, fat32, and I imagine using ntfs3.  Disable windows hibernate/suspend and fast boot if sharing a filesystem between linux and windows.
+
+
+And ..
+
+it's best to not use ntfs for your game storage drive , it can be  slower and more of a CPU load.  It does Work for me, but it is slower in my experience.
+
+also.. there are a lot of bad/wrong/old  posts/blogs/guides  on this topic. so watch out for those.  (some of the info here may be wrong, so dont trust this guide 100%)
+
+ This guide may be outdated or wrong when we start using ntfs3.
+
+
+
+Also be sure to check out this guide, and the part about the compatdata directory 
+
+
+
+https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows#preventing-ntfs-read-errors
+
+
+--------
+
+bonus tip.   **Steam scale ui Tweak.:**
+
+set a system variable to have steam scale up it's UI.
+
+             $    GDK_SCALE=2  steam
+
+edit your steam .desktop file to make it the default option, or make a second .desktop file for a steam 2x Launcher.
+
+
+--------
+
+STEAM on an ext4 or other Linux filesystem.
+
+basic outline..
+
+format the Filesystem, get the UUID
+make directory for the mount  
+
+           mkdir /home/bob/games 
+ 
+make fstab entry. 
+
+      UUID=123-YOUR-UUID /home/bob/games ext4 defaults,nofail 0 0
+
+mount the filesystem  
+
+          sudo mount /home/bob/games 
+
+
+make the Filesystem owned by your user.  
+
+         sudo chown bob.bob /home/bob/games 
+
+
+reboot to make sure it mounts.
+
+use steam and tell it to put a steam library on /home/bob/games
+install games as normal.
+
+------------------
+
+**ntfs3 notes**
+
+from user mandiblesarecute who gives an example with ntfs3
+
+      PARTLABEL=Win10     /media/win10    ntfs3   noacsrules,noatime,nofail,prealloc,sparse                                       0 0
+
+ noacsrules **makes everything effectively 777** for when you don't need or care about fine grained access control. 
+ 
+This 777 mode can be annoying and a security issue  in some use cases which is why it's not the default.
+
+I had issues using  `Ntfs3`, so  for now I still use `Ntfs-3g `, i will test out ntfs3 again in the future as it matures. 
+
+
+------
+
+**Steam flatpak notes from another user. TimRambo1**
+
+For flatpaks  you want to  use the **flatseal** tool to allow access to the filesystem mountpoint of your steam games filesystem.
+
+example: add  mount point 
+**/home/(username)/games/**
+
+ under **filesystem** under the steam settings in **flatseal**. 
+
+The filesystem still has to be properly mounted (as shown above) 
+
+Guide Used
+
+https://deckcentral.net/posts/allow_flatpaks_to_access_your_sd_card_with_flatseal/
+
+
+----
+
+
+STEAMDECK NOTES:
+
+Not tried running steam games from a NTFS  on my steamdeck. So I can't say how it differs from a normal Linux install. 
+
+
+
+-------
+
+end of my rambly guide.",linux_gaming
+jhnju84,"It can work, but certain games might take issues with that. If you plan to use the drive in both Windows and Linux be wary that they may or may not overwrite certain files in library when launching or updating. I would personally save myself a headache and use separate drives.",linux_gaming
+jhn1wwx,"I just mounted it through partition-manager, but I'll look at the last step since that seems to be really imporant. Thanks!",linux_gaming
+jhn1y0m,well what filesystem can be read by both windows and linux? FAT?,linux_gaming
+jhms2yh,"but then i can’t move them from windows because it won’t recognize them :(
+
+i guess i could just move them all onto the main drive, then go into linux, format, and copy the folder manually
+
+is it possible to have the drive be shared so i can download once and play in both systems? it would probably have to be ntfs for that because windows right?",linux_gaming
+jhn2265,exfat and fat32,linux_gaming
+jhn4bfk,You might look into [this](https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows).,linux_gaming
+jhn8vth,I'd recommend btrfs over exfat any day,linux_gaming
+jhnl9u6,With FAT32 you might hit the 4GB file size limit.,linux_gaming
+jhn2btu,I don't think you can download steam games onto FAT though,linux_gaming
+jhn2d7n,No idea,linux_gaming
+jhmdss9,"In Lutris you can set that via
+
+* Rightclick game -> Config -> System Options -> Environment variables
+* Add **DXVK_STATE_CACHE_PATH** and set a path
+* Add **__GL_SHADER_DISK_CACHE_PATH** and set a path ( you might need to also add __GL_SHADER_DISK_CACHE and set it to 1 )",linux_gaming
+jhmkdhp,"> are there any other alternatives that would work?
+
+Getting the game on Steam or itch.io and using the mod with Linux native version.",linux_gaming
+jhmnij4,"It worked for me awhile back, now it seems I can't get past matchmaking",linux_gaming
+jhlhb40,tried specifically 520.56.06?,linux_gaming
+jhm2bbm,Could you tell me how long till the issue shows or any tips so I can try to replicate the issue.,linux_gaming
+jhli5sk,"I've tried to downgrade to this specific version yes, but it didn't seem to work with my kernel version, meaning I'd have to either downgrade the kernel or use dkms. I'll see if I can do something with that tomorrow.",linux_gaming
+jhp1556,"This has seemingly solved the issue, for the time being at least. Edited the post with the particular details.",linux_gaming
+jhnin3x,"In RE: Village it shows most of the time at the first house when opening the drawer (the house in the woods). RE4R there are people getting it also at the first house, but more random. There are also rare users getting it just from their WM…
+
+For RE, there’s an open issue on this (unlikely to be solved by vkd3d as it’s an nvidia issue, happens in some native games) 
+
+https://github.com/HansKristian-Work/vkd3d-proton/issues/1357",linux_gaming
+jhll4p2,"yeah probably, sounds a bit like what nvidias doing with their nvidia-open driver ?",linux_gaming
+jhliu1n,"...But they aren't and don't? The API is actually documented [right here](https://docs.kernel.org/gpu/amdgpu/thermal.html). 
+
+And, like, the docs aren't great, I'm not saying AMD is doing a super awesome job TM, but describing it as an unstable and undocumented API is just... wrong.",linux_gaming
+jhltkq6,"I'm thinking the reason we have to do it ourselves is that traditional linux philosophy of security first, and that giving certain things permissions it wouldn't usually have is bad practice. 
+
+Which I get, but it'd be nice to not have to enter a root password when you want to mess with fan curves.",linux_gaming
+jhlx0vf,"I mean, that does fundamentally make sense. In a multiuser environment it's not safe to allow hardware access to arbitrary users, and you definitely don't want any program you run to be able to mess with those.",linux_gaming
+jhlqrzp,"> You can already ignore any need for Solus repository by using flatpaks anyway.
+
+Unmaintained Kernel/Mesa/Driver packages are a huge security issue and prevent proton/games from using newer Vulkan Extensions (at least in case of NVIDIA), but speaking strictly for basic functionallity it should be fine.",linux_gaming
+jhoss83,"To be clear, I am not saying people shouldn't rely o some kind of update for those, **I don't know how steam deck does it, and I don't know what the folks with Solus will do** with serpent considering they mentioned it will gradually go through a distro of theseus process so the users won't notice it.
+
+I am saying that most software regular users need don't even need to be in the Solus repository due to flatpak, which is what steam deck is currently doing.",linux_gaming
+jhnn21h,"It runs very well on Linux too. (+100 FPS, 1440p, max settings, 6700XT)
+
+As long as you don't have Linux 6.2...
+
+Probably no sabotaging involved.",linux_gaming
+jhp4kc5,Link?,linux_gaming
+jhpgu09,Dud you broke the rule 😤,linux_gaming
+jhm0cw4,Run it in a terminal window and see which error messages appear. Maybe you're missing a library.,linux_gaming
+jhp4gif,How do I do that?,linux_gaming
+jhpjcxv,"just copy this in terminal without the "" ""an-anime-game-launcher""",linux_gaming
+jhmgjty,anything i could do?,linux_gaming
+jhn22pi,get a better Device,linux_gaming
+jho4ly6,actually i figured that out by reinstalling but now when i open it the launcher open normally and works fine but when i play the game it crashes after champ select and then shows league client again and it shows recconect and its doesnt connect,linux_gaming
+jhm9iiv,Spacebourne 2 :),linux_gaming
+jhojlp8,Fishing planet!,linux_gaming
+jhm88ap,"> Already tried it
+
+Including the updating SDL part? It looks like SOMA uses a pretty old SDL version from 10 years ago, which yeah doesn't support Xbox One controllers on Linux. SDL 2.0.4 supports basic Xbox One controllers, but I think SOMA is on 2.0.3? If it's a Series controller, you may need newer.",linux_gaming
+jhmejut,Already tried it,linux_gaming
+jhmf48p,"Yeah, the one linked is 2.0.5, which barely has the original Xbox One controller over USB support I believe. I think you need a way newer version of SDL: it looks like this commit only 5 years ago adds support for Bluetooth Xbox One controller: https://github.com/libsdl-org/SDL/commit/9ca5373024f3579e8b50c7c3c9ad74705033650f",linux_gaming
+jhmf77y,"Thanks. No idea however, on how to take advantage of Steam Input?",linux_gaming
+jhmgorz,No idea. Off the top of my head steam input shows up as a 360 controller.,linux_gaming
+jhmh8p3,"My xbox Bluetooth controller shows up as 360 as well. Had to force it for Prey, installed yesterday. I wonder why I can't force it on non steam games",linux_gaming
+jhm4s67,/r/vfio is probably a better fit for GPU passthrough issues too (although it's also OK to post here).,linux_gaming
+jhllm9l,"I finally got the Content Manager working on the Steam Deck, but now I can’t start a race because there was an error that says “Couldn’t run Steam”.",linux_gaming
+jhllynr,Another alternative is using Bottles. Bottles work too!,linux_gaming
+jhltcvq,"Interesting, I didn't know about ""Bottles"" so far. 
+
+I'm cautious about using too much external software from outside the official repositories, though. Bad experiences. 
+
+And a flatpak or a ppa would additionally increase the risk of system compromization, even more so, as ""Bottles"" seems to rely on ""community-driven"" dependencies (e. g. .exe and .dll) from various unverified or untrusted sources, or at least from a very small community with limited resources for added security. 
+
+It seems, the dependencies are not even fetched directly from Microsoft (if you trust this company, that is). I don't quite like that idea.
+
+Also, the project is still young and might still be subject to commercialization in the near future, so it might be a bit early to adopt.",linux_gaming
+jhpj6us,Manjaro make packages from non stable branches and they dont even test there own code they have DDOSed the AUR more then once,linux_gaming
+jhlchzw,"It is currently the only game I have installed, outside of minecraft (which works fine). Notably, other applications like Anki Flashcards currently suffer from the same issue! 
+
+NOTE: I think there is something wrong with my drivers; I cannot find the driver version anywhere, and I cannot grep it from the X-server logs. Is there another way you know of to find that version? nvidia-smi is not installed / not working.",linux_gaming
+jhldoyy,"See recent edit, I think my drivers are corrupt / gone. Normal apt update and upgrades are not restoring them.",linux_gaming
+jhmicyq,"Well, I am glad  the issue is resolved ☺️",linux_gaming
+jhm7qks,"Don't get ahead of yourself. Also, Japan isn't even the biggest game market anyway, so it doesn't matter that much.",linux_gaming
+jhmnsn3,"i believe there is some crap with tampermonkey or violentmonkey extension to fix this altho it is a 3rd party ""fix""",linux_gaming
+jhm9dj5,The anticheat was probably having issues with wine,linux_gaming
+jhoccw2,"Yeah... so I disabled second display yesterday and played a couple of rounds and - what shall I say - not loosing focus!
+
+But for me this is not a solution.  
+Even when I might find a way to use Discord (3rd party clients) overlay on Linux, there is another issue with this because as soon as I turned the second monitor on again, I got ""logged out"" of my Gnome session but on re-login all applications where not restored. But they were still running as I could see when trying to restart my PC.
+
+So yeah... I hate it...  
+I don't know why I do always get issues like that that no one other has thus leading to not being able to solve them right away. So damn annoying... :-/",linux_gaming
+jhoe2d4,"At least you're one step closer? :P
+
+Most people are single monitor or use virtual desktops in my experience... I always read about multimonitor bugs being fixed in KDE and it makes me really wonder what's going on over there",linux_gaming
+jhocxnq,"Ah yes, you're right. Forgot about this to mention.I do have an own script for this game. But I have only one script and calling the game (?) with `""$@""` I can put stuff just after that line and it will be run when the game closes. I just read it somewhere and it worked.",linux_gaming
+jhon84g,"I added this to the launch option for one of the games, but i can't find the log. It isn't in /var/log, not in Steam Directory, not in the Home Directory and not in the Game Directory. But with Protocols, i could find a few errors: [https://transfer.sh/q7lRqF/SteamLog.txt](https://transfer.sh/q7lRqF/SteamLog.txt)",linux_gaming
+jhpe47c,"Hmm, I'm not sure what's causing this one tbh. Is this on a laptop or multi-gpu system?",linux_gaming
+jhpbmh1,"Update: While I'm unable to play through proton (and today's update didn't fix it either) I had some success playing through the android emulator ""Waydroid"". There are a few downsides to this approach, mainly:  
+- The performance is pretty poor  
+- The microphone volume is pretty low (I had to turn all the volume knobs into overdrive to allow the others to hear me)
+- The colors are a bit off (nothing too serious, but color gradients are blocky as if heavily compressed)
+- Getting it to work is a bit of a hassle
+
+If anyone wants to give it a shot, here's what you need
+- Install Waydroid
+- If you're on X11, install Weston (Waydroid can only run on Wayland, but Weston will allow you to run Wayland within X11); run Waydroid by starting Weston, then inside the Weston window open a terminal and run `waydroid start session` from there
+- Use an android image with Google Apps installed (or install google apps into your image)
+- Get rid of the ""uncertifid device"" error through https://www.google.com/android/uncertified - for this you'll need your android id, which you can get using the following command (after submitting your android id to google you'll need to wait 10-20 Minutes for the changes to take effect. You may also need to wipe the cache of the Google Play Services app)
+```
+echo 'ANDROID_RUNTIME_ROOT=/apex/com.android.runtime sqlite3 /data/data/com.google.android.gsf/databases/gservices.db ""select * from main;""' | sudo waydroid shell | grep android_id
+```
+- Install ARM instruction translation (libndk) into your android image. The waydroid_script tool helps a lot with this: https://github.com/casualsnek/waydroid_script
+
+With all this done, you should be able to log into Google Play and download Goose Goose Duck from there. The last remaining hurdle that Goose Goose Duck will detect the android image as being rooted on startup and will prevent you from joining a game as a result. This check can be bypassed, however the method I was using today is somewhat unreliable, so I won't share it for now in the hope that someone comes up with something better.
+
+If you've got to the main menu without Goose Goose Duck complaining that your device is rooted, you should be able to play.",linux_gaming
+jhn4m6l,I've spoken to several people that told me that they were able to play in the past but apparently a recent anti-cheat related update broke it for them. I'm afraid there is no way to play Goose Goose Duck through Proton/Wine. I'll try Waydroid or a Windows VM next.,linux_gaming
+jhpbulx,"I've had some success with Waydroid. I've added a top level comment describing the process in more detail.
+
+https://www.reddit.com/r/linux_gaming/comments/12s0iha/comment/jhpbmh1/?utm_source=reddit&utm_medium=web2x&context=3",linux_gaming
+jhlttwc,"This fixed it, thank you! I don't know why that was an issue this time as the past two updates haven't been an issue.",linux_gaming
+jhlc3uh,Thanks! I really appreciate you took the time to test and share the results.,linux_gaming
+jhl9yql,"Ok, I have no idea how wine actually works can you give me a rundown of how that would work?or a manual? lol Thank you though.
+P.s. - Sorry for the necroposting",linux_gaming
+jhmux0e,Worst thing is you literally need to buy a game to even be able to write a review,linux_gaming
+jhnz1l0,"then its a driver thing, thanks for answer",linux_gaming
+jhoyhkl,Please also try to install libnvidia-egl-wayland library,linux_gaming
+jhn3bkz,+,linux_gaming
+jhn58r4,It can be fixed by manually replacing the dxvk version in Proton GE 55 with the latest version from git.,linux_gaming
+jhm78wv,"An exe? I’m not trying to open my file with anything, I tried with Steam and Chrome and nothing.",linux_gaming

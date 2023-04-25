@@ -1,27 +1,53 @@
 title_id,title,subreddit
+12ysmfy,Improved Wine gaming with exeCute,linux_gaming
+12yb3qz,There is a lot of native Linux games. What would you recomend?,linux_gaming
+12yfibp,What is your favorite open source Linux game? Mine is Wideland (Best way to describe is the way Settlers 3 should have been),linux_gaming
+12yagh3,Wiki is getting attacked by spam bots!,linux_gaming
+12yg5qp,PSA: the 8bitdo ultimate (bluetooth + 2.4gz) controller doesn't work out of the box on most linux distributions,linux_gaming
+12yuxvw,xbox control annoying the s out of me,linux_gaming
 12xr0d6,Valve moves ELDEN RING back to Proton 7 as it has issues with newer Proton,linux_gaming
+12ymwbb,"How does a ""Pocket Builder"" game resonate with you?",linux_gaming
+12ywrhv,OBS AMD RDNA2 Hardware accelerated capture Windows vs Linux,linux_gaming
+12yvejx,Linux-Kernel 6.3 epic fail (DisplayPort HDCP),linux_gaming
+12ytkp3,cursor going to the floor and game losing access to keys,linux_gaming
+12ylt5i,Paradox announce first 'Immersion Pack' for Victoria 3 and free upgrade,linux_gaming
+12ydz56,Save 70% on Pathfinder: Kingmaker - Enhanced Plus Edition on Steam,linux_gaming
 12xbjm3,Improved AMD Color Management Being Worked On For The Steam Deck,linux_gaming
-12xtiug,My first solo made game Lichenvale is out on Steam! With launch discount of 10% it is priced at $7.19,linux_gaming
 12xrnss,Fedora 39 Looks To Boost vm.max_map_count To Help Windows Games With Steam Play,linux_gaming
+12xtiug,My first solo made game Lichenvale is out on Steam! With launch discount of 10% it is priced at $7.19,linux_gaming
+12y9un2,"Thrustmaster T150 wheel has force feedback/autocenter on the desktop, but never in any games or configuration apps.",linux_gaming
+12y3svj,How do i install(if it's the correct term) my AMD gpu on Fedora Linux? (An almost complete linux noob here). amd-gpu-install didn't work.,linux_gaming
 12wu74d,Roblox intentionally blocking Linux with Wine in their new update,linux_gaming
+12ypy6p,How do you compile Cheat Engine?,linux_gaming
+12yokzn,Resident Evil 5 not running (+help).,linux_gaming
+12ydz9f,Save 30% on Dome Keeper on Steam,linux_gaming
+12ycr9k,Fallout 4 on Ubuntu 23.04,linux_gaming
 12x05sl,"Kernel 6.3 Brings Native Steam Deck Controller Support, Better Power Efficiency with Ryzen Laptops",linux_gaming
 12x3wnm,Why does the Steam Linux file picker suck so much?!,linux_gaming
+12y9sod,VrChat,linux_gaming
+12y2mr3,xone doesn't work for wireless dongle,linux_gaming
+12ye9xk,Elden Ring crash on startup,linux_gaming
+12y5vnk,Shared Steam library issues - help?,linux_gaming
+12y9q4z,Microstuttering in games like CSGO,linux_gaming
+12y30j3,Ways to Get Windows Games From the Late ‘90s Working? (Creatures Albian in This Case),linux_gaming
+12ycycy,Farming Simulator 22 crash,linux_gaming
+12ydg5v,"If I downloaded all my games on a separate windows drive, can I just link to the drive in linux and play them?",linux_gaming
+12xq4wh,Linux not seeing both DisplayPorts as audio devices,linux_gaming
+12y5uwy,cache/logs generating inside the game directory,linux_gaming
 12xxh0v,Celeste Everest on Lutris through epic games,linux_gaming
+12xuu80,Facing keyboard input queuing with multiple games,linux_gaming
 12xufco,Dauntless,linux_gaming
 12y0o8u,Any temporary fix for Xid 109 nvidia driver bug?,linux_gaming
-12xq4wh,Linux not seeing both DisplayPorts as audio devices,linux_gaming
-12xs7oz,ProtonDB Steam Deck CSS Filters (dynamic class name resistant),linux_gaming
-12xxs7k,Genshin impact on Ubuntu?,linux_gaming
-12xuu80,Facing keyboard input queuing with multiple games,linux_gaming
 12wiit0,"Why is overclocking, power, voltage and fan control not a feature in the AMDGPU drivers for new GPU releases?",linux_gaming
 12wzfok,New Steam Deck Hardware Revision In The Wild? (with Pictures),linux_gaming
-12xo72j,Proton issues,linux_gaming
-12xm1h5,Gaming on Linux EP#87: Combat Master: Season 1 | Steam | F2P | 3700X 6600XT,linux_gaming
 12ws8dc,Solus is becoming an immutable distro,linux_gaming
 12w1vdi,Finally got Forza Horizon 5 running well (AMD),linux_gaming
+12xxs7k,Genshin impact on Ubuntu?,linux_gaming
+12xo72j,Proton issues,linux_gaming
+12xar37,Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs,linux_gaming
+12xm1h5,Gaming on Linux EP#87: Combat Master: Season 1 | Steam | F2P | 3700X 6600XT,linux_gaming
 12xrlcg,Problem with Steam,linux_gaming
 12xj952,low LOD / blurry distant textures in Spiderman and AC Unity,linux_gaming
-12xar37,Godot-dodo – Finetuning LLaMA on single-language comment:code data pairs,linux_gaming
 12xh0xj,leauge of legends crashing ubuntu lutris,linux_gaming
 12wufli,Ready for a new game. Looking for ideas.,linux_gaming
 12xb9vs,"SOMA through HeroicLauncher not detecting Xbox Series S Controller (xpadneo installed, controller working for every steam game)",linux_gaming
@@ -29,13 +55,14 @@ title_id,title,subreddit
 12vnoi2,"Celebrate the third anniversary of Project Heartbeat, the enthusiast community rhythm game made on Linux, with update 0.17 a MASSIVE release with many features and improvements, including an editor revamp, 2 new songs & more! Together with a 40% discount!",linux_gaming
 12wzumh,Assetto Corsa mods without using Content Manager on Steam Deck,linux_gaming
 12wf5ad,Help with RX 7900 XT freezing and crashing on pop_os,linux_gaming
+12x2v50,Install Uplay/EA games in Steam,linux_gaming
 12wvgk7,Terrible microstuttering when FPS drops below around 80 on 170Hz monitor (FreeSync is enabled),linux_gaming
 12wuic8,Struggling to get Bluetooth + PS4 controller working,linux_gaming
 12wtuen,Blue Yeti X - G-Hub Alternative,linux_gaming
-12x2v50,Install Uplay/EA games in Steam,linux_gaming
 12wydfl,"7900 XTX and ray tracing, HDR",linux_gaming
 12x1nmu,Elden Ring Wont Launch,linux_gaming
 12v1ei7,"Flathub Has Been Redesigned, and Each App Page Contains Much More Info Now",linux_gaming
+12wbzzl,gsync + regata OS + kde = gsync not working,linux_gaming
 12wpc1z,Monster Hunter World can't see Xbox controller,linux_gaming
 12wvu2w,Best Steam Deck Games Released in the Past Week with Lone Fungus and Wall World – 2023-04-23 Edition,linux_gaming
 12x5fee,most updated distro,linux_gaming
@@ -43,7 +70,6 @@ title_id,title,subreddit
 12wmpf2,PopOS 22.04: Insurgency Sandstorm Does Not Launch,linux_gaming
 12wmk1o,Keyboard mapping/macro using evremap,linux_gaming
 12x3q6d,I can't believe how beautiful Battlefront 2 is,linux_gaming
-12wbzzl,gsync + regata OS + kde = gsync not working,linux_gaming
 12vnzu2,is there a list of all the dxvk and proton launch commands for steam?,linux_gaming
 12wswtp,Help Cyberpunk,linux_gaming
 12w376h,Lutris errors mesa,linux_gaming
@@ -165,8 +191,8 @@ title_id,title,subreddit
 12srbqu,Controller issues on Fedora 38,linux_gaming
 12s0lv5,"Step on a Fedora 38, crack your TF2's back",linux_gaming
 12s039f,Psa Xdefiant,linux_gaming
-12sl5ei,Dead Space Remake not starting,linux_gaming
 12samnh,"[Review]Ultimate Bluetooth Controller by 8bitdo. Great Controller, avoid it(for now)",linux_gaming
+12sl5ei,Dead Space Remake not starting,linux_gaming
 12s1qvx,Flatpak steam inventory,linux_gaming
 12rlzcf,New Steam Games with Native Linux Clients with AfroPenguin and I Did Not Buy this Ticket – 2023-04-19 Edition,linux_gaming
 12rtydj,Meet RegataOS: An openSUSE Tumbleweed-based gaming focused distro.,linux_gaming
@@ -573,7 +599,6 @@ title_id,title,subreddit
 12e3fx4,Local Multiplayer,linux_gaming
 12eizv4,trouble with the last update of league of legends,linux_gaming
 12ed9ye,Ripping old windows games,linux_gaming
-12en3o3,How to improve GTA V on gentoo?,linux_gaming
 12dpm8i,"Tweaking, myth or no?",linux_gaming
 12ebu0z,"Can i share my windows ""bottles"" with other users?",linux_gaming
 12dos85,Suggestions for an action RPG loot game that runs on a low-end laptop?,linux_gaming
@@ -690,8 +715,8 @@ title_id,title,subreddit
 12az8qa,Dual monitor gaming,linux_gaming
 12b4z77,Has anyone tried gaming on Clear Linux?,linux_gaming
 12ax4hp,SteamVR dashboard,linux_gaming
-129ozkh,"Could anyone help me testing my game on linux, please? (genre: management, strategy, mining, crafting, simulation)",linux_gaming
 129u4bv,Overwatch 2 works really well on GE-Proton-53,linux_gaming
+129ozkh,"Could anyone help me testing my game on linux, please? (genre: management, strategy, mining, crafting, simulation)",linux_gaming
 129uzpi,Play (old) Fortnite on Linux !,linux_gaming
 12a6v2a,"Any DE/Compositor already enabled the ""tear protocol"" on Wayland?",linux_gaming
 12avsmo,Hunt Showdown: Game Freezes,linux_gaming
@@ -970,6 +995,8 @@ title_id,title,subreddit
 122d4dr,Steamplay Game error on Linux,linux_gaming
 120o1i4,"AMD FidelityFX Super Resolution 3 ""FSR 3"" Will Be Open-Source",linux_gaming
 122l2xu,"Best Steam Deck Games Released in the Past Week with Roadwarden, No Time and Quake – 2023-03-26 Edition",linux_gaming
+12xs7oz,ProtonDB Steam Deck CSS Filters (dynamic class name resistant),linux_gaming
+12en3o3,How to improve GTA V on gentoo?,linux_gaming
 1218arz,My story of my first week of Linux.,linux_gaming
 12218gk,Where are Steam save files located on Ubuntu 22.04?,linux_gaming
 1222yk6,Steam Randomly and Occasionally Shutting itself down,linux_gaming
