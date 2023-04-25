@@ -15,11 +15,11 @@ def merge_data_subreddit(subreddit_name):
     name_pattern = f'{subreddit_name}_comment_data_'
 
     # Get a list of all csv files in the directory that match the naming pattern
-    title_csv_files = [filename for filename in os.listdir(dir_path) if filename.endswith('.csv') and name_pattern in filename]
+    comment_csv_files = [filename for filename in os.listdir(dir_path) if filename.endswith('.csv') and name_pattern in filename]
 
     # Looping through the csv files and creating a list of dataframes
     dataframes = []
-    for csv_file in title_csv_files:
+    for csv_file in comment_csv_files:
         df = pd.read_csv(os.path.join(dir_path, csv_file))
         dataframes.append(df)
 
@@ -27,7 +27,7 @@ def merge_data_subreddit(subreddit_name):
     merged_df = pd.concat(dataframes)
 
     # Get rid of any duplicates cause by the merge
-    merged_df.drop_duplicates(inplace=True)
+    merged_df.drop_duplicates(subset='comment_id', inplace=True)
 
     # Export the merged dataframe as a new csv file
     merged_df.to_csv(f'../data/half_merged_data/{subreddit_name}_merged_comment_data.csv', index=False)
@@ -57,7 +57,7 @@ def merge_data(subreddit1, subreddit2):
     merged_df = pd.concat(dataframes)
 
     # Get rid of any duplicates cause by the merge
-    merged_df.drop_duplicates(inplace=True)
+    merged_df.drop_duplicates(subset='comment_id', inplace=True)
 
     # Export the merged dataframe as a new csv file
     merged_df.to_csv(f'../data/{subreddit1}_{subreddit2}_merged_comment_data.csv', index=False)

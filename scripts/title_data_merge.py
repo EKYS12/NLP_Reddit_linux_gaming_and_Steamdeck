@@ -27,7 +27,7 @@ def merge_data_subreddit(subreddit_name):
     merged_df = pd.concat(dataframes)
 
     # Get rid of any duplicates cause by the merge
-    merged_df.drop_duplicates(inplace=True)
+    merged_df.drop_duplicates(subset='title_id', inplace=True)
 
     # Export the merged dataframe as a new csv file
     merged_df.to_csv(f'../data/half_merged_data/{subreddit_name}_merged_title_data.csv', index=False)
@@ -62,7 +62,7 @@ def merge_data(subreddit1, subreddit2):
     merged_df = pd.concat(dataframes)
 
     # Get rid of any duplicates cause by the merge
-    merged_df.drop_duplicates(inplace=True)
+    merged_df.drop_duplicates(subset='title_id', inplace=True)
 
     # Export the merged dataframe as a new csv file
     merged_df.to_csv(f'../data/{subreddit1}_{subreddit2}_merged_title_data.csv', index=False)
