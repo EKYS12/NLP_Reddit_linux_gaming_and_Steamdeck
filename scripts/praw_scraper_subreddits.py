@@ -46,7 +46,7 @@ def pull_subreddit(subreddit_name):
     subreddit = reddit.subreddit(subreddit_name)
     
     # Purely to help keep make sure the function is running. The script can take 30 mins to run, so this can help ease the mind.
-    print(subreddit.display_name)
+    print(f'Latest hot from {subreddit.display_name}')
     
     # Empty lists that we will append our data to 
     titles=[]
@@ -85,7 +85,58 @@ def pull_subreddit(subreddit_name):
 
     return
 
+# This function will be used to pull the data from the Top section. We only need to run this function once and then can comment out the call after that.
+def pull_subreddit_top(subreddit_name):
+    # Create the sub-reddit instance
+    subreddit = reddit.subreddit(subreddit_name)
+    
+    # Purely to help keep make sure the function is running. The script can take 30 mins to run, so this can help ease the mind.
+    print(f'Top from{subreddit.display_name}')
+    
+    # Empty lists that we will append our data to 
+    titles=[]
+    title_ids=[]
+    comments=[]
+    comment_ids=[]
+    
+    # For loop to go through each submission. We are looking at the data in the "hot" category. We are taking the maximum amount of data the api will let us gather.
+    for submission in subreddit.top(limit=None, time_filter='all'):
+        # Making sure not to get the pinned post at the top of the 'hot' section.
+        if not submission.stickied:
+            
+            # Grabbing the titles of posts
+            titles.append(submission.title)
+            title_ids.append(submission.id)
+    
+            # This is used to not be stopped and get an error when the comment chain can get rather long, and lets us gather more data. 
+            submission.comments.replace_more(limit=5)
+
+            # Looping over comments and appending them to the list of comments.
+            for comment in submission.comments.list():
+                comments.append(comment.body)
+                comment_ids.append(comment.id)
+
+    # Taking the lists that we made and turning them into data frames.
+    subred_title_df = pd.DataFrame(list(zip(title_ids, titles)), columns=['title_id', 'title']) 
+    subred_comment_df = pd.DataFrame(list(zip(comment_ids, comments)), columns=['comment_id', 'comments']) 
+
+    # Adding the target variable column, which is original subreddit the posts are from
+    subred_title_df['subreddit'] = subreddit_name
+    subred_comment_df['subreddit'] = subreddit_name
+
+    # Exporting the dataframe as a csv. Labeling with the subreddit name and the date of collection
+    subred_title_df.to_csv(f'../data/raw_data/{subreddit_name}_top_title_data_{current_date}.csv', index=False)
+    subred_comment_df.to_csv(f'../data/raw_data/{subreddit_name}_top_comment_data_{current_date}.csv', index=False)
+
+    return
+
+
 # Calling function on our subreddits
 pull_subreddit('linux_gaming')
 
 pull_subreddit('SteamDeck')
+
+# These two functions should only be run once.
+# pull_subreddit_top('linux_gaming')
+
+# pull_subreddit_top('SteamDeck')
