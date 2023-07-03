@@ -1,5 +1,7 @@
 # README
 
+*This project is a work in progress*
+
 In this project I have taken data on the Titles and Comments from the subreddits of r/SteamDeck and r/linux_gaming to build a classification model that can correctly predict which of the two subreddits a random post is from.
 
 ## Why This Interested Me
