@@ -18,19 +18,19 @@ import datetime
 load_dotenv()
 
 # Access the environment variables for user credentials
-username = os.getenv('MY_USERNAME')
-password = os.getenv('MY_PASSWORD')
-client_id = os.getenv('CLIENT_ID')
-client_secret = os.getenv('CLIENT_SECRET') 
+USERNAME = os.getenv('MY_USERNAME')
+PASSWORD = os.getenv('MY_PASSWORD')
+CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET') 
 
 # Define user agent
 USER_AGENT = "praw_scraper_1.0 by Yasser Siddiqui"
 
 # Create an instance of reddit class using the env variables and user agent variable
-reddit = praw.Reddit(username=username,
-                     password=password,
-                     client_id=client_id,
-                     client_secret=client_secret,
+reddit = praw.Reddit(username=USERNAME,
+                     password=PASSWORD,
+                     client_id=CLIENT_ID,
+                     client_secret=CLIENT_SECRET,
                      user_agent=USER_AGENT
 )
 
